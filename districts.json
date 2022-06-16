@@ -1,0 +1,5642 @@
+[
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "001",
+        "name": "Quận Ba Đình",
+        "type": "Quận",
+        "province_service_order": "0"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "002",
+        "name": "Quận Hoàn Kiếm",
+        "type": "Quận",
+        "province_service_order": "1"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "003",
+        "name": "Quận Tây Hồ",
+        "type": "Quận",
+        "province_service_order": "2"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "004",
+        "name": "Quận Long Biên",
+        "type": "Quận",
+        "province_service_order": "3"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "005",
+        "name": "Quận Cầu Giấy",
+        "type": "Quận",
+        "province_service_order": "4"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "006",
+        "name": "Quận Đống Đa",
+        "type": "Quận",
+        "province_service_order": "5"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "007",
+        "name": "Quận Hai Bà Trưng",
+        "type": "Quận",
+        "province_service_order": "6"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "008",
+        "name": "Quận Hoàng Mai",
+        "type": "Quận",
+        "province_service_order": "7"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "009",
+        "name": "Quận Thanh Xuân",
+        "type": "Quận",
+        "province_service_order": "8"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "016",
+        "name": "Huyện Sóc Sơn",
+        "type": "Huyện",
+        "province_service_order": "9"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "017",
+        "name": "Huyện Đông Anh",
+        "type": "Huyện",
+        "province_service_order": "10"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "018",
+        "name": "Huyện Gia Lâm",
+        "type": "Huyện",
+        "province_service_order": "11"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "019",
+        "name": "Quận Nam Từ Liêm",
+        "type": "Quận",
+        "province_service_order": "12"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "020",
+        "name": "Huyện Thanh Trì",
+        "type": "Huyện",
+        "province_service_order": "13"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "021",
+        "name": "Quận Bắc Từ Liêm",
+        "type": "Quận",
+        "province_service_order": "14"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "250",
+        "name": "Huyện Mê Linh",
+        "type": "Huyện",
+        "province_service_order": "15"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "268",
+        "name": "Quận Hà Đông",
+        "type": "Quận",
+        "province_service_order": "16"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "269",
+        "name": "Thị xã Sơn Tây",
+        "type": "Thị xã",
+        "province_service_order": "17"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "271",
+        "name": "Huyện Ba Vì",
+        "type": "Huyện",
+        "province_service_order": "18"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "272",
+        "name": "Huyện Phúc Thọ",
+        "type": "Huyện",
+        "province_service_order": "19"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "273",
+        "name": "Huyện Đan Phượng",
+        "type": "Huyện",
+        "province_service_order": "20"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "274",
+        "name": "Huyện Hoài Đức",
+        "type": "Huyện",
+        "province_service_order": "21"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "275",
+        "name": "Huyện Quốc Oai",
+        "type": "Huyện",
+        "province_service_order": "22"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "276",
+        "name": "Huyện Thạch Thất",
+        "type": "Huyện",
+        "province_service_order": "23"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "277",
+        "name": "Huyện Chương Mỹ",
+        "type": "Huyện",
+        "province_service_order": "24"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "278",
+        "name": "Huyện Thanh Oai",
+        "type": "Huyện",
+        "province_service_order": "25"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "279",
+        "name": "Huyện Thường Tín",
+        "type": "Huyện",
+        "province_service_order": "26"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "280",
+        "name": "Huyện Phú Xuyên",
+        "type": "Huyện",
+        "province_service_order": "27"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "281",
+        "name": "Huyện Ứng Hòa",
+        "type": "Huyện",
+        "province_service_order": "28"
+    },
+    {
+        "province_service_key": "01",
+        "province_name": "Thành phố Hà Nội",
+        "district_service_key": "282",
+        "name": "Huyện Mỹ Đức",
+        "type": "Huyện",
+        "province_service_order": "29"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "024",
+        "name": "Thành phố Hà Giang",
+        "type": "Thành phố",
+        "province_service_order": "30"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "026",
+        "name": "Huyện Đồng Văn",
+        "type": "Huyện",
+        "province_service_order": "31"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "027",
+        "name": "Huyện Mèo Vạc",
+        "type": "Huyện",
+        "province_service_order": "32"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "028",
+        "name": "Huyện Yên Minh",
+        "type": "Huyện",
+        "province_service_order": "33"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "029",
+        "name": "Huyện Quản Bạ",
+        "type": "Huyện",
+        "province_service_order": "34"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "030",
+        "name": "Huyện Vị Xuyên",
+        "type": "Huyện",
+        "province_service_order": "35"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "031",
+        "name": "Huyện Bắc Mê",
+        "type": "Huyện",
+        "province_service_order": "36"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "032",
+        "name": "Huyện Hoàng Su Phì",
+        "type": "Huyện",
+        "province_service_order": "37"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "033",
+        "name": "Huyện Xín Mần",
+        "type": "Huyện",
+        "province_service_order": "38"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "034",
+        "name": "Huyện Bắc Quang",
+        "type": "Huyện",
+        "province_service_order": "39"
+    },
+    {
+        "province_service_key": "02",
+        "province_name": "Tỉnh Hà Giang",
+        "district_service_key": "035",
+        "name": "Huyện Quang Bình",
+        "type": "Huyện",
+        "province_service_order": "40"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "040",
+        "name": "Thành phố Cao Bằng",
+        "type": "Thành phố",
+        "province_service_order": "41"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "042",
+        "name": "Huyện Bảo Lâm",
+        "type": "Huyện",
+        "province_service_order": "42"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "043",
+        "name": "Huyện Bảo Lạc",
+        "type": "Huyện",
+        "province_service_order": "43"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "045",
+        "name": "Huyện Hà Quảng",
+        "type": "Huyện",
+        "province_service_order": "44"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "047",
+        "name": "Huyện Trùng Khánh",
+        "type": "Huyện",
+        "province_service_order": "45"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "048",
+        "name": "Huyện Hạ Lang",
+        "type": "Huyện",
+        "province_service_order": "46"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "049",
+        "name": "Huyện Quảng Hòa",
+        "type": "Huyện",
+        "province_service_order": "47"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "051",
+        "name": "Huyện Hoà An",
+        "type": "Huyện",
+        "province_service_order": "48"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "052",
+        "name": "Huyện Nguyên Bình",
+        "type": "Huyện",
+        "province_service_order": "49"
+    },
+    {
+        "province_service_key": "04",
+        "province_name": "Tỉnh Cao Bằng",
+        "district_service_key": "053",
+        "name": "Huyện Thạch An",
+        "type": "Huyện",
+        "province_service_order": "50"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "058",
+        "name": "Thành Phố Bắc Kạn",
+        "type": "Thành phố",
+        "province_service_order": "51"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "060",
+        "name": "Huyện Pác Nặm",
+        "type": "Huyện",
+        "province_service_order": "52"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "061",
+        "name": "Huyện Ba Bể",
+        "type": "Huyện",
+        "province_service_order": "53"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "062",
+        "name": "Huyện Ngân Sơn",
+        "type": "Huyện",
+        "province_service_order": "54"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "063",
+        "name": "Huyện Bạch Thông",
+        "type": "Huyện",
+        "province_service_order": "55"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "064",
+        "name": "Huyện Chợ Đồn",
+        "type": "Huyện",
+        "province_service_order": "56"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "065",
+        "name": "Huyện Chợ Mới",
+        "type": "Huyện",
+        "province_service_order": "57"
+    },
+    {
+        "province_service_key": "06",
+        "province_name": "Tỉnh Bắc Kạn",
+        "district_service_key": "066",
+        "name": "Huyện Na Rì",
+        "type": "Huyện",
+        "province_service_order": "58"
+    },
+    {
+        "province_service_key": "08",
+        "province_name": "Tỉnh Tuyên Quang",
+        "district_service_key": "070",
+        "name": "Thành phố Tuyên Quang",
+        "type": "Thành phố",
+        "province_service_order": "59"
+    },
+    {
+        "province_service_key": "08",
+        "province_name": "Tỉnh Tuyên Quang",
+        "district_service_key": "071",
+        "name": "Huyện Lâm Bình",
+        "type": "Huyện",
+        "province_service_order": "60"
+    },
+    {
+        "province_service_key": "08",
+        "province_name": "Tỉnh Tuyên Quang",
+        "district_service_key": "072",
+        "name": "Huyện Na Hang",
+        "type": "Huyện",
+        "province_service_order": "61"
+    },
+    {
+        "province_service_key": "08",
+        "province_name": "Tỉnh Tuyên Quang",
+        "district_service_key": "073",
+        "name": "Huyện Chiêm Hóa",
+        "type": "Huyện",
+        "province_service_order": "62"
+    },
+    {
+        "province_service_key": "08",
+        "province_name": "Tỉnh Tuyên Quang",
+        "district_service_key": "074",
+        "name": "Huyện Hàm Yên",
+        "type": "Huyện",
+        "province_service_order": "63"
+    },
+    {
+        "province_service_key": "08",
+        "province_name": "Tỉnh Tuyên Quang",
+        "district_service_key": "075",
+        "name": "Huyện Yên Sơn",
+        "type": "Huyện",
+        "province_service_order": "64"
+    },
+    {
+        "province_service_key": "08",
+        "province_name": "Tỉnh Tuyên Quang",
+        "district_service_key": "076",
+        "name": "Huyện Sơn Dương",
+        "type": "Huyện",
+        "province_service_order": "65"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "080",
+        "name": "Thành phố Lào Cai",
+        "type": "Thành phố",
+        "province_service_order": "66"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "082",
+        "name": "Huyện Bát Xát",
+        "type": "Huyện",
+        "province_service_order": "67"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "083",
+        "name": "Huyện Mường Khương",
+        "type": "Huyện",
+        "province_service_order": "68"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "084",
+        "name": "Huyện Si Ma Cai",
+        "type": "Huyện",
+        "province_service_order": "69"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "085",
+        "name": "Huyện Bắc Hà",
+        "type": "Huyện",
+        "province_service_order": "70"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "086",
+        "name": "Huyện Bảo Thắng",
+        "type": "Huyện",
+        "province_service_order": "71"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "087",
+        "name": "Huyện Bảo Yên",
+        "type": "Huyện",
+        "province_service_order": "72"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "088",
+        "name": "Thị xã Sa Pa",
+        "type": "Thị xã",
+        "province_service_order": "73"
+    },
+    {
+        "province_service_key": "10",
+        "province_name": "Tỉnh Lào Cai",
+        "district_service_key": "089",
+        "name": "Huyện Văn Bàn",
+        "type": "Huyện",
+        "province_service_order": "74"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "094",
+        "name": "Thành phố Điện Biên Phủ",
+        "type": "Thành phố",
+        "province_service_order": "75"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "095",
+        "name": "Thị Xã Mường Lay",
+        "type": "Thị xã",
+        "province_service_order": "76"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "096",
+        "name": "Huyện Mường Nhé",
+        "type": "Huyện",
+        "province_service_order": "77"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "097",
+        "name": "Huyện Mường Chà",
+        "type": "Huyện",
+        "province_service_order": "78"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "098",
+        "name": "Huyện Tủa Chùa",
+        "type": "Huyện",
+        "province_service_order": "79"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "099",
+        "name": "Huyện Tuần Giáo",
+        "type": "Huyện",
+        "province_service_order": "80"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "100",
+        "name": "Huyện Điện Biên",
+        "type": "Huyện",
+        "province_service_order": "81"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "101",
+        "name": "Huyện Điện Biên Đông",
+        "type": "Huyện",
+        "province_service_order": "82"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "102",
+        "name": "Huyện Mường Ảng",
+        "type": "Huyện",
+        "province_service_order": "83"
+    },
+    {
+        "province_service_key": "11",
+        "province_name": "Tỉnh Điện Biên",
+        "district_service_key": "103",
+        "name": "Huyện Nậm Pồ",
+        "type": "Huyện",
+        "province_service_order": "84"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "105",
+        "name": "Thành phố Lai Châu",
+        "type": "Thành phố",
+        "province_service_order": "85"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "106",
+        "name": "Huyện Tam Đường",
+        "type": "Huyện",
+        "province_service_order": "86"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "107",
+        "name": "Huyện Mường Tè",
+        "type": "Huyện",
+        "province_service_order": "87"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "108",
+        "name": "Huyện Sìn Hồ",
+        "type": "Huyện",
+        "province_service_order": "88"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "109",
+        "name": "Huyện Phong Thổ",
+        "type": "Huyện",
+        "province_service_order": "89"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "110",
+        "name": "Huyện Than Uyên",
+        "type": "Huyện",
+        "province_service_order": "90"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "111",
+        "name": "Huyện Tân Uyên",
+        "type": "Huyện",
+        "province_service_order": "91"
+    },
+    {
+        "province_service_key": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_service_key": "112",
+        "name": "Huyện Nậm Nhùn",
+        "type": "Huyện",
+        "province_service_order": "92"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "116",
+        "name": "Thành phố Sơn La",
+        "type": "Thành phố",
+        "province_service_order": "93"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "118",
+        "name": "Huyện Quỳnh Nhai",
+        "type": "Huyện",
+        "province_service_order": "94"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "119",
+        "name": "Huyện Thuận Châu",
+        "type": "Huyện",
+        "province_service_order": "95"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "120",
+        "name": "Huyện Mường La",
+        "type": "Huyện",
+        "province_service_order": "96"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "121",
+        "name": "Huyện Bắc Yên",
+        "type": "Huyện",
+        "province_service_order": "97"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "122",
+        "name": "Huyện Phù Yên",
+        "type": "Huyện",
+        "province_service_order": "98"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "123",
+        "name": "Huyện Mộc Châu",
+        "type": "Huyện",
+        "province_service_order": "99"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "124",
+        "name": "Huyện Yên Châu",
+        "type": "Huyện",
+        "province_service_order": "100"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "125",
+        "name": "Huyện Mai Sơn",
+        "type": "Huyện",
+        "province_service_order": "101"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "126",
+        "name": "Huyện Sông Mã",
+        "type": "Huyện",
+        "province_service_order": "102"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "127",
+        "name": "Huyện Sốp Cộp",
+        "type": "Huyện",
+        "province_service_order": "103"
+    },
+    {
+        "province_service_key": "14",
+        "province_name": "Tỉnh Sơn La",
+        "district_service_key": "128",
+        "name": "Huyện Vân Hồ",
+        "type": "Huyện",
+        "province_service_order": "104"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "132",
+        "name": "Thành phố Yên Bái",
+        "type": "Thành phố",
+        "province_service_order": "105"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "133",
+        "name": "Thị xã Nghĩa Lộ",
+        "type": "Thị xã",
+        "province_service_order": "106"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "135",
+        "name": "Huyện Lục Yên",
+        "type": "Huyện",
+        "province_service_order": "107"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "136",
+        "name": "Huyện Văn Yên",
+        "type": "Huyện",
+        "province_service_order": "108"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "137",
+        "name": "Huyện Mù Căng Chải",
+        "type": "Huyện",
+        "province_service_order": "109"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "138",
+        "name": "Huyện Trấn Yên",
+        "type": "Huyện",
+        "province_service_order": "110"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "139",
+        "name": "Huyện Trạm Tấu",
+        "type": "Huyện",
+        "province_service_order": "111"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "140",
+        "name": "Huyện Văn Chấn",
+        "type": "Huyện",
+        "province_service_order": "112"
+    },
+    {
+        "province_service_key": "15",
+        "province_name": "Tỉnh Yên Bái",
+        "district_service_key": "141",
+        "name": "Huyện Yên Bình",
+        "type": "Huyện",
+        "province_service_order": "113"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "148",
+        "name": "Thành phố Hòa Bình",
+        "type": "Thành phố",
+        "province_service_order": "114"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "150",
+        "name": "Huyện Đà Bắc",
+        "type": "Huyện",
+        "province_service_order": "115"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "152",
+        "name": "Huyện Lương Sơn",
+        "type": "Huyện",
+        "province_service_order": "116"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "153",
+        "name": "Huyện Kim Bôi",
+        "type": "Huyện",
+        "province_service_order": "117"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "154",
+        "name": "Huyện Cao Phong",
+        "type": "Huyện",
+        "province_service_order": "118"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "155",
+        "name": "Huyện Tân Lạc",
+        "type": "Huyện",
+        "province_service_order": "119"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "156",
+        "name": "Huyện Mai Châu",
+        "type": "Huyện",
+        "province_service_order": "120"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "157",
+        "name": "Huyện Lạc Sơn",
+        "type": "Huyện",
+        "province_service_order": "121"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "158",
+        "name": "Huyện Yên Thủy",
+        "type": "Huyện",
+        "province_service_order": "122"
+    },
+    {
+        "province_service_key": "17",
+        "province_name": "Tỉnh Hoà Bình",
+        "district_service_key": "159",
+        "name": "Huyện Lạc Thủy",
+        "type": "Huyện",
+        "province_service_order": "123"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "164",
+        "name": "Thành phố Thái Nguyên",
+        "type": "Thành phố",
+        "province_service_order": "124"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "165",
+        "name": "Thành phố Sông Công",
+        "type": "Thành phố",
+        "province_service_order": "125"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "167",
+        "name": "Huyện Định Hóa",
+        "type": "Huyện",
+        "province_service_order": "126"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "168",
+        "name": "Huyện Phú Lương",
+        "type": "Huyện",
+        "province_service_order": "127"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "169",
+        "name": "Huyện Đồng Hỷ",
+        "type": "Huyện",
+        "province_service_order": "128"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "170",
+        "name": "Huyện Võ Nhai",
+        "type": "Huyện",
+        "province_service_order": "129"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "171",
+        "name": "Huyện Đại Từ",
+        "type": "Huyện",
+        "province_service_order": "130"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "172",
+        "name": "Thành phố Phổ Yên",
+        "type": "Thành phố",
+        "province_service_order": "131"
+    },
+    {
+        "province_service_key": "19",
+        "province_name": "Tỉnh Thái Nguyên",
+        "district_service_key": "173",
+        "name": "Huyện Phú Bình",
+        "type": "Huyện",
+        "province_service_order": "132"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "178",
+        "name": "Thành phố Lạng Sơn",
+        "type": "Thành phố",
+        "province_service_order": "133"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "180",
+        "name": "Huyện Tràng Định",
+        "type": "Huyện",
+        "province_service_order": "134"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "181",
+        "name": "Huyện Bình Gia",
+        "type": "Huyện",
+        "province_service_order": "135"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "182",
+        "name": "Huyện Văn Lãng",
+        "type": "Huyện",
+        "province_service_order": "136"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "183",
+        "name": "Huyện Cao Lộc",
+        "type": "Huyện",
+        "province_service_order": "137"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "184",
+        "name": "Huyện Văn Quan",
+        "type": "Huyện",
+        "province_service_order": "138"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "185",
+        "name": "Huyện Bắc Sơn",
+        "type": "Huyện",
+        "province_service_order": "139"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "186",
+        "name": "Huyện Hữu Lũng",
+        "type": "Huyện",
+        "province_service_order": "140"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "187",
+        "name": "Huyện Chi Lăng",
+        "type": "Huyện",
+        "province_service_order": "141"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "188",
+        "name": "Huyện Lộc Bình",
+        "type": "Huyện",
+        "province_service_order": "142"
+    },
+    {
+        "province_service_key": "20",
+        "province_name": "Tỉnh Lạng Sơn",
+        "district_service_key": "189",
+        "name": "Huyện Đình Lập",
+        "type": "Huyện",
+        "province_service_order": "143"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "193",
+        "name": "Thành phố Hạ Long",
+        "type": "Thành phố",
+        "province_service_order": "144"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "194",
+        "name": "Thành phố Móng Cái",
+        "type": "Thành phố",
+        "province_service_order": "145"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "195",
+        "name": "Thành phố Cẩm Phả",
+        "type": "Thành phố",
+        "province_service_order": "146"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "196",
+        "name": "Thành phố Uông Bí",
+        "type": "Thành phố",
+        "province_service_order": "147"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "198",
+        "name": "Huyện Bình Liêu",
+        "type": "Huyện",
+        "province_service_order": "148"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "199",
+        "name": "Huyện Tiên Yên",
+        "type": "Huyện",
+        "province_service_order": "149"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "200",
+        "name": "Huyện Đầm Hà",
+        "type": "Huyện",
+        "province_service_order": "150"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "201",
+        "name": "Huyện Hải Hà",
+        "type": "Huyện",
+        "province_service_order": "151"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "202",
+        "name": "Huyện Ba Chẽ",
+        "type": "Huyện",
+        "province_service_order": "152"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "203",
+        "name": "Huyện Vân Đồn",
+        "type": "Huyện",
+        "province_service_order": "153"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "205",
+        "name": "Thị xã Đông Triều",
+        "type": "Thị xã",
+        "province_service_order": "154"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "206",
+        "name": "Thị xã Quảng Yên",
+        "type": "Thị xã",
+        "province_service_order": "155"
+    },
+    {
+        "province_service_key": "22",
+        "province_name": "Tỉnh Quảng Ninh",
+        "district_service_key": "207",
+        "name": "Huyện Cô Tô",
+        "type": "Huyện",
+        "province_service_order": "156"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "213",
+        "name": "Thành phố Bắc Giang",
+        "type": "Thành phố",
+        "province_service_order": "157"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "215",
+        "name": "Huyện Yên Thế",
+        "type": "Huyện",
+        "province_service_order": "158"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "216",
+        "name": "Huyện Tân Yên",
+        "type": "Huyện",
+        "province_service_order": "159"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "217",
+        "name": "Huyện Lạng Giang",
+        "type": "Huyện",
+        "province_service_order": "160"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "218",
+        "name": "Huyện Lục Nam",
+        "type": "Huyện",
+        "province_service_order": "161"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "219",
+        "name": "Huyện Lục Ngạn",
+        "type": "Huyện",
+        "province_service_order": "162"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "220",
+        "name": "Huyện Sơn Động",
+        "type": "Huyện",
+        "province_service_order": "163"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "221",
+        "name": "Huyện Yên Dũng",
+        "type": "Huyện",
+        "province_service_order": "164"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "222",
+        "name": "Huyện Việt Yên",
+        "type": "Huyện",
+        "province_service_order": "165"
+    },
+    {
+        "province_service_key": "24",
+        "province_name": "Tỉnh Bắc Giang",
+        "district_service_key": "223",
+        "name": "Huyện Hiệp Hòa",
+        "type": "Huyện",
+        "province_service_order": "166"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "227",
+        "name": "Thành phố Việt Trì",
+        "type": "Thành phố",
+        "province_service_order": "167"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "228",
+        "name": "Thị xã Phú Thọ",
+        "type": "Thị xã",
+        "province_service_order": "168"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "230",
+        "name": "Huyện Đoan Hùng",
+        "type": "Huyện",
+        "province_service_order": "169"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "231",
+        "name": "Huyện Hạ Hoà",
+        "type": "Huyện",
+        "province_service_order": "170"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "232",
+        "name": "Huyện Thanh Ba",
+        "type": "Huyện",
+        "province_service_order": "171"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "233",
+        "name": "Huyện Phù Ninh",
+        "type": "Huyện",
+        "province_service_order": "172"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "234",
+        "name": "Huyện Yên Lập",
+        "type": "Huyện",
+        "province_service_order": "173"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "235",
+        "name": "Huyện Cẩm Khê",
+        "type": "Huyện",
+        "province_service_order": "174"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "236",
+        "name": "Huyện Tam Nông",
+        "type": "Huyện",
+        "province_service_order": "175"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "237",
+        "name": "Huyện Lâm Thao",
+        "type": "Huyện",
+        "province_service_order": "176"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "238",
+        "name": "Huyện Thanh Sơn",
+        "type": "Huyện",
+        "province_service_order": "177"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "239",
+        "name": "Huyện Thanh Thuỷ",
+        "type": "Huyện",
+        "province_service_order": "178"
+    },
+    {
+        "province_service_key": "25",
+        "province_name": "Tỉnh Phú Thọ",
+        "district_service_key": "240",
+        "name": "Huyện Tân Sơn",
+        "type": "Huyện",
+        "province_service_order": "179"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "243",
+        "name": "Thành phố Vĩnh Yên",
+        "type": "Thành phố",
+        "province_service_order": "180"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "244",
+        "name": "Thành phố Phúc Yên",
+        "type": "Thành phố",
+        "province_service_order": "181"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "246",
+        "name": "Huyện Lập Thạch",
+        "type": "Huyện",
+        "province_service_order": "182"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "247",
+        "name": "Huyện Tam Dương",
+        "type": "Huyện",
+        "province_service_order": "183"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "248",
+        "name": "Huyện Tam Đảo",
+        "type": "Huyện",
+        "province_service_order": "184"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "249",
+        "name": "Huyện Bình Xuyên",
+        "type": "Huyện",
+        "province_service_order": "185"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "251",
+        "name": "Huyện Yên Lạc",
+        "type": "Huyện",
+        "province_service_order": "186"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "252",
+        "name": "Huyện Vĩnh Tường",
+        "type": "Huyện",
+        "province_service_order": "187"
+    },
+    {
+        "province_service_key": "26",
+        "province_name": "Tỉnh Vĩnh Phúc",
+        "district_service_key": "253",
+        "name": "Huyện Sông Lô",
+        "type": "Huyện",
+        "province_service_order": "188"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "256",
+        "name": "Thành phố Bắc Ninh",
+        "type": "Thành phố",
+        "province_service_order": "189"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "258",
+        "name": "Huyện Yên Phong",
+        "type": "Huyện",
+        "province_service_order": "190"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "259",
+        "name": "Huyện Quế Võ",
+        "type": "Huyện",
+        "province_service_order": "191"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "260",
+        "name": "Huyện Tiên Du",
+        "type": "Huyện",
+        "province_service_order": "192"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "261",
+        "name": "Thành phố Từ Sơn",
+        "type": "Thành phố",
+        "province_service_order": "193"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "262",
+        "name": "Huyện Thuận Thành",
+        "type": "Huyện",
+        "province_service_order": "194"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "263",
+        "name": "Huyện Gia Bình",
+        "type": "Huyện",
+        "province_service_order": "195"
+    },
+    {
+        "province_service_key": "27",
+        "province_name": "Tỉnh Bắc Ninh",
+        "district_service_key": "264",
+        "name": "Huyện Lương Tài",
+        "type": "Huyện",
+        "province_service_order": "196"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "288",
+        "name": "Thành phố Hải Dương",
+        "type": "Thành phố",
+        "province_service_order": "197"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "290",
+        "name": "Thành phố Chí Linh",
+        "type": "Thành phố",
+        "province_service_order": "198"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "291",
+        "name": "Huyện Nam Sách",
+        "type": "Huyện",
+        "province_service_order": "199"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "292",
+        "name": "Thị xã Kinh Môn",
+        "type": "Thị xã",
+        "province_service_order": "200"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "293",
+        "name": "Huyện Kim Thành",
+        "type": "Huyện",
+        "province_service_order": "201"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "294",
+        "name": "Huyện Thanh Hà",
+        "type": "Huyện",
+        "province_service_order": "202"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "295",
+        "name": "Huyện Cẩm Giàng",
+        "type": "Huyện",
+        "province_service_order": "203"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "296",
+        "name": "Huyện Bình Giang",
+        "type": "Huyện",
+        "province_service_order": "204"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "297",
+        "name": "Huyện Gia Lộc",
+        "type": "Huyện",
+        "province_service_order": "205"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "298",
+        "name": "Huyện Tứ Kỳ",
+        "type": "Huyện",
+        "province_service_order": "206"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "299",
+        "name": "Huyện Ninh Giang",
+        "type": "Huyện",
+        "province_service_order": "207"
+    },
+    {
+        "province_service_key": "30",
+        "province_name": "Tỉnh Hải Dương",
+        "district_service_key": "300",
+        "name": "Huyện Thanh Miện",
+        "type": "Huyện",
+        "province_service_order": "208"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "303",
+        "name": "Quận Hồng Bàng",
+        "type": "Quận",
+        "province_service_order": "209"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "304",
+        "name": "Quận Ngô Quyền",
+        "type": "Quận",
+        "province_service_order": "210"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "305",
+        "name": "Quận Lê Chân",
+        "type": "Quận",
+        "province_service_order": "211"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "306",
+        "name": "Quận Hải An",
+        "type": "Quận",
+        "province_service_order": "212"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "307",
+        "name": "Quận Kiến An",
+        "type": "Quận",
+        "province_service_order": "213"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "308",
+        "name": "Quận Đồ Sơn",
+        "type": "Quận",
+        "province_service_order": "214"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "309",
+        "name": "Quận Dương Kinh",
+        "type": "Quận",
+        "province_service_order": "215"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "311",
+        "name": "Huyện Thuỷ Nguyên",
+        "type": "Huyện",
+        "province_service_order": "216"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "312",
+        "name": "Huyện An Dương",
+        "type": "Huyện",
+        "province_service_order": "217"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "313",
+        "name": "Huyện An Lão",
+        "type": "Huyện",
+        "province_service_order": "218"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "314",
+        "name": "Huyện Kiến Thuỵ",
+        "type": "Huyện",
+        "province_service_order": "219"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "315",
+        "name": "Huyện Tiên Lãng",
+        "type": "Huyện",
+        "province_service_order": "220"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "316",
+        "name": "Huyện Vĩnh Bảo",
+        "type": "Huyện",
+        "province_service_order": "221"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "317",
+        "name": "Huyện Cát Hải",
+        "type": "Huyện",
+        "province_service_order": "222"
+    },
+    {
+        "province_service_key": "31",
+        "province_name": "Thành phố Hải Phòng",
+        "district_service_key": "318",
+        "name": "Huyện Bạch Long Vĩ",
+        "type": "Huyện",
+        "province_service_order": "223"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "323",
+        "name": "Thành phố Hưng Yên",
+        "type": "Thành phố",
+        "province_service_order": "224"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "325",
+        "name": "Huyện Văn Lâm",
+        "type": "Huyện",
+        "province_service_order": "225"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "326",
+        "name": "Huyện Văn Giang",
+        "type": "Huyện",
+        "province_service_order": "226"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "327",
+        "name": "Huyện Yên Mỹ",
+        "type": "Huyện",
+        "province_service_order": "227"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "328",
+        "name": "Thị xã Mỹ Hào",
+        "type": "Thị xã",
+        "province_service_order": "228"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "329",
+        "name": "Huyện Ân Thi",
+        "type": "Huyện",
+        "province_service_order": "229"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "330",
+        "name": "Huyện Khoái Châu",
+        "type": "Huyện",
+        "province_service_order": "230"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "331",
+        "name": "Huyện Kim Động",
+        "type": "Huyện",
+        "province_service_order": "231"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "332",
+        "name": "Huyện Tiên Lữ",
+        "type": "Huyện",
+        "province_service_order": "232"
+    },
+    {
+        "province_service_key": "33",
+        "province_name": "Tỉnh Hưng Yên",
+        "district_service_key": "333",
+        "name": "Huyện Phù Cừ",
+        "type": "Huyện",
+        "province_service_order": "233"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "336",
+        "name": "Thành phố Thái Bình",
+        "type": "Thành phố",
+        "province_service_order": "234"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "338",
+        "name": "Huyện Quỳnh Phụ",
+        "type": "Huyện",
+        "province_service_order": "235"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "339",
+        "name": "Huyện Hưng Hà",
+        "type": "Huyện",
+        "province_service_order": "236"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "340",
+        "name": "Huyện Đông Hưng",
+        "type": "Huyện",
+        "province_service_order": "237"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "341",
+        "name": "Huyện Thái Thụy",
+        "type": "Huyện",
+        "province_service_order": "238"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "342",
+        "name": "Huyện Tiền Hải",
+        "type": "Huyện",
+        "province_service_order": "239"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "343",
+        "name": "Huyện Kiến Xương",
+        "type": "Huyện",
+        "province_service_order": "240"
+    },
+    {
+        "province_service_key": "34",
+        "province_name": "Tỉnh Thái Bình",
+        "district_service_key": "344",
+        "name": "Huyện Vũ Thư",
+        "type": "Huyện",
+        "province_service_order": "241"
+    },
+    {
+        "province_service_key": "35",
+        "province_name": "Tỉnh Hà Nam",
+        "district_service_key": "347",
+        "name": "Thành phố Phủ Lý",
+        "type": "Thành phố",
+        "province_service_order": "242"
+    },
+    {
+        "province_service_key": "35",
+        "province_name": "Tỉnh Hà Nam",
+        "district_service_key": "349",
+        "name": "Thị xã Duy Tiên",
+        "type": "Thị xã",
+        "province_service_order": "243"
+    },
+    {
+        "province_service_key": "35",
+        "province_name": "Tỉnh Hà Nam",
+        "district_service_key": "350",
+        "name": "Huyện Kim Bảng",
+        "type": "Huyện",
+        "province_service_order": "244"
+    },
+    {
+        "province_service_key": "35",
+        "province_name": "Tỉnh Hà Nam",
+        "district_service_key": "351",
+        "name": "Huyện Thanh Liêm",
+        "type": "Huyện",
+        "province_service_order": "245"
+    },
+    {
+        "province_service_key": "35",
+        "province_name": "Tỉnh Hà Nam",
+        "district_service_key": "352",
+        "name": "Huyện Bình Lục",
+        "type": "Huyện",
+        "province_service_order": "246"
+    },
+    {
+        "province_service_key": "35",
+        "province_name": "Tỉnh Hà Nam",
+        "district_service_key": "353",
+        "name": "Huyện Lý Nhân",
+        "type": "Huyện",
+        "province_service_order": "247"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "356",
+        "name": "Thành phố Nam Định",
+        "type": "Thành phố",
+        "province_service_order": "248"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "358",
+        "name": "Huyện Mỹ Lộc",
+        "type": "Huyện",
+        "province_service_order": "249"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "359",
+        "name": "Huyện Vụ Bản",
+        "type": "Huyện",
+        "province_service_order": "250"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "360",
+        "name": "Huyện Ý Yên",
+        "type": "Huyện",
+        "province_service_order": "251"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "361",
+        "name": "Huyện Nghĩa Hưng",
+        "type": "Huyện",
+        "province_service_order": "252"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "362",
+        "name": "Huyện Nam Trực",
+        "type": "Huyện",
+        "province_service_order": "253"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "363",
+        "name": "Huyện Trực Ninh",
+        "type": "Huyện",
+        "province_service_order": "254"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "364",
+        "name": "Huyện Xuân Trường",
+        "type": "Huyện",
+        "province_service_order": "255"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "365",
+        "name": "Huyện Giao Thủy",
+        "type": "Huyện",
+        "province_service_order": "256"
+    },
+    {
+        "province_service_key": "36",
+        "province_name": "Tỉnh Nam Định",
+        "district_service_key": "366",
+        "name": "Huyện Hải Hậu",
+        "type": "Huyện",
+        "province_service_order": "257"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "369",
+        "name": "Thành phố Ninh Bình",
+        "type": "Thành phố",
+        "province_service_order": "258"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "370",
+        "name": "Thành phố Tam Điệp",
+        "type": "Thành phố",
+        "province_service_order": "259"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "372",
+        "name": "Huyện Nho Quan",
+        "type": "Huyện",
+        "province_service_order": "260"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "373",
+        "name": "Huyện Gia Viễn",
+        "type": "Huyện",
+        "province_service_order": "261"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "374",
+        "name": "Huyện Hoa Lư",
+        "type": "Huyện",
+        "province_service_order": "262"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "375",
+        "name": "Huyện Yên Khánh",
+        "type": "Huyện",
+        "province_service_order": "263"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "376",
+        "name": "Huyện Kim Sơn",
+        "type": "Huyện",
+        "province_service_order": "264"
+    },
+    {
+        "province_service_key": "37",
+        "province_name": "Tỉnh Ninh Bình",
+        "district_service_key": "377",
+        "name": "Huyện Yên Mô",
+        "type": "Huyện",
+        "province_service_order": "265"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "380",
+        "name": "Thành phố Thanh Hóa",
+        "type": "Thành phố",
+        "province_service_order": "266"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "381",
+        "name": "Thị xã Bỉm Sơn",
+        "type": "Thị xã",
+        "province_service_order": "267"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "382",
+        "name": "Thành phố Sầm Sơn",
+        "type": "Thành phố",
+        "province_service_order": "268"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "384",
+        "name": "Huyện Mường Lát",
+        "type": "Huyện",
+        "province_service_order": "269"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "385",
+        "name": "Huyện Quan Hóa",
+        "type": "Huyện",
+        "province_service_order": "270"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "386",
+        "name": "Huyện Bá Thước",
+        "type": "Huyện",
+        "province_service_order": "271"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "387",
+        "name": "Huyện Quan Sơn",
+        "type": "Huyện",
+        "province_service_order": "272"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "388",
+        "name": "Huyện Lang Chánh",
+        "type": "Huyện",
+        "province_service_order": "273"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "389",
+        "name": "Huyện Ngọc Lặc",
+        "type": "Huyện",
+        "province_service_order": "274"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "390",
+        "name": "Huyện Cẩm Thủy",
+        "type": "Huyện",
+        "province_service_order": "275"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "391",
+        "name": "Huyện Thạch Thành",
+        "type": "Huyện",
+        "province_service_order": "276"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "392",
+        "name": "Huyện Hà Trung",
+        "type": "Huyện",
+        "province_service_order": "277"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "393",
+        "name": "Huyện Vĩnh Lộc",
+        "type": "Huyện",
+        "province_service_order": "278"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "394",
+        "name": "Huyện Yên Định",
+        "type": "Huyện",
+        "province_service_order": "279"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "395",
+        "name": "Huyện Thọ Xuân",
+        "type": "Huyện",
+        "province_service_order": "280"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "396",
+        "name": "Huyện Thường Xuân",
+        "type": "Huyện",
+        "province_service_order": "281"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "397",
+        "name": "Huyện Triệu Sơn",
+        "type": "Huyện",
+        "province_service_order": "282"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "398",
+        "name": "Huyện Thiệu Hóa",
+        "type": "Huyện",
+        "province_service_order": "283"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "399",
+        "name": "Huyện Hoằng Hóa",
+        "type": "Huyện",
+        "province_service_order": "284"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "400",
+        "name": "Huyện Hậu Lộc",
+        "type": "Huyện",
+        "province_service_order": "285"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "401",
+        "name": "Huyện Nga Sơn",
+        "type": "Huyện",
+        "province_service_order": "286"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "402",
+        "name": "Huyện Như Xuân",
+        "type": "Huyện",
+        "province_service_order": "287"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "403",
+        "name": "Huyện Như Thanh",
+        "type": "Huyện",
+        "province_service_order": "288"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "404",
+        "name": "Huyện Nông Cống",
+        "type": "Huyện",
+        "province_service_order": "289"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "405",
+        "name": "Huyện Đông Sơn",
+        "type": "Huyện",
+        "province_service_order": "290"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "406",
+        "name": "Huyện Quảng Xương",
+        "type": "Huyện",
+        "province_service_order": "291"
+    },
+    {
+        "province_service_key": "38",
+        "province_name": "Tỉnh Thanh Hóa",
+        "district_service_key": "407",
+        "name": "Thị xã Nghi Sơn",
+        "type": "Thị xã",
+        "province_service_order": "292"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "412",
+        "name": "Thành phố Vinh",
+        "type": "Thành phố",
+        "province_service_order": "293"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "413",
+        "name": "Thị xã Cửa Lò",
+        "type": "Thị xã",
+        "province_service_order": "294"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "414",
+        "name": "Thị xã Thái Hoà",
+        "type": "Thị xã",
+        "province_service_order": "295"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "415",
+        "name": "Huyện Quế Phong",
+        "type": "Huyện",
+        "province_service_order": "296"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "416",
+        "name": "Huyện Quỳ Châu",
+        "type": "Huyện",
+        "province_service_order": "297"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "417",
+        "name": "Huyện Kỳ Sơn",
+        "type": "Huyện",
+        "province_service_order": "298"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "418",
+        "name": "Huyện Tương Dương",
+        "type": "Huyện",
+        "province_service_order": "299"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "419",
+        "name": "Huyện Nghĩa Đàn",
+        "type": "Huyện",
+        "province_service_order": "300"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "420",
+        "name": "Huyện Quỳ Hợp",
+        "type": "Huyện",
+        "province_service_order": "301"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "421",
+        "name": "Huyện Quỳnh Lưu",
+        "type": "Huyện",
+        "province_service_order": "302"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "422",
+        "name": "Huyện Con Cuông",
+        "type": "Huyện",
+        "province_service_order": "303"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "423",
+        "name": "Huyện Tân Kỳ",
+        "type": "Huyện",
+        "province_service_order": "304"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "424",
+        "name": "Huyện Anh Sơn",
+        "type": "Huyện",
+        "province_service_order": "305"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "425",
+        "name": "Huyện Diễn Châu",
+        "type": "Huyện",
+        "province_service_order": "306"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "426",
+        "name": "Huyện Yên Thành",
+        "type": "Huyện",
+        "province_service_order": "307"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "427",
+        "name": "Huyện Đô Lương",
+        "type": "Huyện",
+        "province_service_order": "308"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "428",
+        "name": "Huyện Thanh Chương",
+        "type": "Huyện",
+        "province_service_order": "309"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "429",
+        "name": "Huyện Nghi Lộc",
+        "type": "Huyện",
+        "province_service_order": "310"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "430",
+        "name": "Huyện Nam Đàn",
+        "type": "Huyện",
+        "province_service_order": "311"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "431",
+        "name": "Huyện Hưng Nguyên",
+        "type": "Huyện",
+        "province_service_order": "312"
+    },
+    {
+        "province_service_key": "40",
+        "province_name": "Tỉnh Nghệ An",
+        "district_service_key": "432",
+        "name": "Thị xã Hoàng Mai",
+        "type": "Thị xã",
+        "province_service_order": "313"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "436",
+        "name": "Thành phố Hà Tĩnh",
+        "type": "Thành phố",
+        "province_service_order": "314"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "437",
+        "name": "Thị xã Hồng Lĩnh",
+        "type": "Thị xã",
+        "province_service_order": "315"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "439",
+        "name": "Huyện Hương Sơn",
+        "type": "Huyện",
+        "province_service_order": "316"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "440",
+        "name": "Huyện Đức Thọ",
+        "type": "Huyện",
+        "province_service_order": "317"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "441",
+        "name": "Huyện Vũ Quang",
+        "type": "Huyện",
+        "province_service_order": "318"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "442",
+        "name": "Huyện Nghi Xuân",
+        "type": "Huyện",
+        "province_service_order": "319"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "443",
+        "name": "Huyện Can Lộc",
+        "type": "Huyện",
+        "province_service_order": "320"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "444",
+        "name": "Huyện Hương Khê",
+        "type": "Huyện",
+        "province_service_order": "321"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "445",
+        "name": "Huyện Thạch Hà",
+        "type": "Huyện",
+        "province_service_order": "322"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "446",
+        "name": "Huyện Cẩm Xuyên",
+        "type": "Huyện",
+        "province_service_order": "323"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "447",
+        "name": "Huyện Kỳ Anh",
+        "type": "Huyện",
+        "province_service_order": "324"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "448",
+        "name": "Huyện Lộc Hà",
+        "type": "Huyện",
+        "province_service_order": "325"
+    },
+    {
+        "province_service_key": "42",
+        "province_name": "Tỉnh Hà Tĩnh",
+        "district_service_key": "449",
+        "name": "Thị xã Kỳ Anh",
+        "type": "Thị xã",
+        "province_service_order": "326"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "450",
+        "name": "Thành Phố Đồng Hới",
+        "type": "Thành phố",
+        "province_service_order": "327"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "452",
+        "name": "Huyện Minh Hóa",
+        "type": "Huyện",
+        "province_service_order": "328"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "453",
+        "name": "Huyện Tuyên Hóa",
+        "type": "Huyện",
+        "province_service_order": "329"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "454",
+        "name": "Huyện Quảng Trạch",
+        "type": "Huyện",
+        "province_service_order": "330"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "455",
+        "name": "Huyện Bố Trạch",
+        "type": "Huyện",
+        "province_service_order": "331"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "456",
+        "name": "Huyện Quảng Ninh",
+        "type": "Huyện",
+        "province_service_order": "332"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "457",
+        "name": "Huyện Lệ Thủy",
+        "type": "Huyện",
+        "province_service_order": "333"
+    },
+    {
+        "province_service_key": "44",
+        "province_name": "Tỉnh Quảng Bình",
+        "district_service_key": "458",
+        "name": "Thị xã Ba Đồn",
+        "type": "Thị xã",
+        "province_service_order": "334"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "461",
+        "name": "Thành phố Đông Hà",
+        "type": "Thành phố",
+        "province_service_order": "335"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "462",
+        "name": "Thị xã Quảng Trị",
+        "type": "Thị xã",
+        "province_service_order": "336"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "464",
+        "name": "Huyện Vĩnh Linh",
+        "type": "Huyện",
+        "province_service_order": "337"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "465",
+        "name": "Huyện Hướng Hóa",
+        "type": "Huyện",
+        "province_service_order": "338"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "466",
+        "name": "Huyện Gio Linh",
+        "type": "Huyện",
+        "province_service_order": "339"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "467",
+        "name": "Huyện Đa Krông",
+        "type": "Huyện",
+        "province_service_order": "340"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "468",
+        "name": "Huyện Cam Lộ",
+        "type": "Huyện",
+        "province_service_order": "341"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "469",
+        "name": "Huyện Triệu Phong",
+        "type": "Huyện",
+        "province_service_order": "342"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "470",
+        "name": "Huyện Hải Lăng",
+        "type": "Huyện",
+        "province_service_order": "343"
+    },
+    {
+        "province_service_key": "45",
+        "province_name": "Tỉnh Quảng Trị",
+        "district_service_key": "471",
+        "name": "Huyện Cồn Cỏ",
+        "type": "Huyện",
+        "province_service_order": "344"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "474",
+        "name": "Thành phố Huế",
+        "type": "Thành phố",
+        "province_service_order": "345"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "476",
+        "name": "Huyện Phong Điền",
+        "type": "Huyện",
+        "province_service_order": "346"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "477",
+        "name": "Huyện Quảng Điền",
+        "type": "Huyện",
+        "province_service_order": "347"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "478",
+        "name": "Huyện Phú Vang",
+        "type": "Huyện",
+        "province_service_order": "348"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "479",
+        "name": "Thị xã Hương Thủy",
+        "type": "Thị xã",
+        "province_service_order": "349"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "480",
+        "name": "Thị xã Hương Trà",
+        "type": "Thị xã",
+        "province_service_order": "350"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "481",
+        "name": "Huyện A Lưới",
+        "type": "Huyện",
+        "province_service_order": "351"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "482",
+        "name": "Huyện Phú Lộc",
+        "type": "Huyện",
+        "province_service_order": "352"
+    },
+    {
+        "province_service_key": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_service_key": "483",
+        "name": "Huyện Nam Đông",
+        "type": "Huyện",
+        "province_service_order": "353"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "490",
+        "name": "Quận Liên Chiểu",
+        "type": "Quận",
+        "province_service_order": "354"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "491",
+        "name": "Quận Thanh Khê",
+        "type": "Quận",
+        "province_service_order": "355"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "492",
+        "name": "Quận Hải Châu",
+        "type": "Quận",
+        "province_service_order": "356"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "493",
+        "name": "Quận Sơn Trà",
+        "type": "Quận",
+        "province_service_order": "357"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "494",
+        "name": "Quận Ngũ Hành Sơn",
+        "type": "Quận",
+        "province_service_order": "358"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "495",
+        "name": "Quận Cẩm Lệ",
+        "type": "Quận",
+        "province_service_order": "359"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "497",
+        "name": "Huyện Hòa Vang",
+        "type": "Huyện",
+        "province_service_order": "360"
+    },
+    {
+        "province_service_key": "48",
+        "province_name": "Thành phố Đà Nẵng",
+        "district_service_key": "498",
+        "name": "Huyện Hoàng Sa",
+        "type": "Huyện",
+        "province_service_order": "361"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "502",
+        "name": "Thành phố Tam Kỳ",
+        "type": "Thành phố",
+        "province_service_order": "362"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "503",
+        "name": "Thành phố Hội An",
+        "type": "Thành phố",
+        "province_service_order": "363"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "504",
+        "name": "Huyện Tây Giang",
+        "type": "Huyện",
+        "province_service_order": "364"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "505",
+        "name": "Huyện Đông Giang",
+        "type": "Huyện",
+        "province_service_order": "365"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "506",
+        "name": "Huyện Đại Lộc",
+        "type": "Huyện",
+        "province_service_order": "366"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "507",
+        "name": "Thị xã Điện Bàn",
+        "type": "Thị xã",
+        "province_service_order": "367"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "508",
+        "name": "Huyện Duy Xuyên",
+        "type": "Huyện",
+        "province_service_order": "368"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "509",
+        "name": "Huyện Quế Sơn",
+        "type": "Huyện",
+        "province_service_order": "369"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "510",
+        "name": "Huyện Nam Giang",
+        "type": "Huyện",
+        "province_service_order": "370"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "511",
+        "name": "Huyện Phước Sơn",
+        "type": "Huyện",
+        "province_service_order": "371"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "512",
+        "name": "Huyện Hiệp Đức",
+        "type": "Huyện",
+        "province_service_order": "372"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "513",
+        "name": "Huyện Thăng Bình",
+        "type": "Huyện",
+        "province_service_order": "373"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "514",
+        "name": "Huyện Tiên Phước",
+        "type": "Huyện",
+        "province_service_order": "374"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "515",
+        "name": "Huyện Bắc Trà My",
+        "type": "Huyện",
+        "province_service_order": "375"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "516",
+        "name": "Huyện Nam Trà My",
+        "type": "Huyện",
+        "province_service_order": "376"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "517",
+        "name": "Huyện Núi Thành",
+        "type": "Huyện",
+        "province_service_order": "377"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "518",
+        "name": "Huyện Phú Ninh",
+        "type": "Huyện",
+        "province_service_order": "378"
+    },
+    {
+        "province_service_key": "49",
+        "province_name": "Tỉnh Quảng Nam",
+        "district_service_key": "519",
+        "name": "Huyện Nông Sơn",
+        "type": "Huyện",
+        "province_service_order": "379"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "522",
+        "name": "Thành phố Quảng Ngãi",
+        "type": "Thành phố",
+        "province_service_order": "380"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "524",
+        "name": "Huyện Bình Sơn",
+        "type": "Huyện",
+        "province_service_order": "381"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "525",
+        "name": "Huyện Trà Bồng",
+        "type": "Huyện",
+        "province_service_order": "382"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "527",
+        "name": "Huyện Sơn Tịnh",
+        "type": "Huyện",
+        "province_service_order": "383"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "528",
+        "name": "Huyện Tư Nghĩa",
+        "type": "Huyện",
+        "province_service_order": "384"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "529",
+        "name": "Huyện Sơn Hà",
+        "type": "Huyện",
+        "province_service_order": "385"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "530",
+        "name": "Huyện Sơn Tây",
+        "type": "Huyện",
+        "province_service_order": "386"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "531",
+        "name": "Huyện Minh Long",
+        "type": "Huyện",
+        "province_service_order": "387"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "532",
+        "name": "Huyện Nghĩa Hành",
+        "type": "Huyện",
+        "province_service_order": "388"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "533",
+        "name": "Huyện Mộ Đức",
+        "type": "Huyện",
+        "province_service_order": "389"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "534",
+        "name": "Thị xã Đức Phổ",
+        "type": "Thị xã",
+        "province_service_order": "390"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "535",
+        "name": "Huyện Ba Tơ",
+        "type": "Huyện",
+        "province_service_order": "391"
+    },
+    {
+        "province_service_key": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_service_key": "536",
+        "name": "Huyện Lý Sơn",
+        "type": "Huyện",
+        "province_service_order": "392"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "540",
+        "name": "Thành phố Quy Nhơn",
+        "type": "Thành phố",
+        "province_service_order": "393"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "542",
+        "name": "Huyện An Lão",
+        "type": "Huyện",
+        "province_service_order": "394"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "543",
+        "name": "Thị xã Hoài Nhơn",
+        "type": "Thị xã",
+        "province_service_order": "395"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "544",
+        "name": "Huyện Hoài Ân",
+        "type": "Huyện",
+        "province_service_order": "396"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "545",
+        "name": "Huyện Phù Mỹ",
+        "type": "Huyện",
+        "province_service_order": "397"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "546",
+        "name": "Huyện Vĩnh Thạnh",
+        "type": "Huyện",
+        "province_service_order": "398"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "547",
+        "name": "Huyện Tây Sơn",
+        "type": "Huyện",
+        "province_service_order": "399"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "548",
+        "name": "Huyện Phù Cát",
+        "type": "Huyện",
+        "province_service_order": "400"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "549",
+        "name": "Thị xã An Nhơn",
+        "type": "Thị xã",
+        "province_service_order": "401"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "550",
+        "name": "Huyện Tuy Phước",
+        "type": "Huyện",
+        "province_service_order": "402"
+    },
+    {
+        "province_service_key": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_service_key": "551",
+        "name": "Huyện Vân Canh",
+        "type": "Huyện",
+        "province_service_order": "403"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "555",
+        "name": "Thành phố Tuy Hoà",
+        "type": "Thành phố",
+        "province_service_order": "404"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "557",
+        "name": "Thị xã Sông Cầu",
+        "type": "Thị xã",
+        "province_service_order": "405"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "558",
+        "name": "Huyện Đồng Xuân",
+        "type": "Huyện",
+        "province_service_order": "406"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "559",
+        "name": "Huyện Tuy An",
+        "type": "Huyện",
+        "province_service_order": "407"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "560",
+        "name": "Huyện Sơn Hòa",
+        "type": "Huyện",
+        "province_service_order": "408"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "561",
+        "name": "Huyện Sông Hinh",
+        "type": "Huyện",
+        "province_service_order": "409"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "562",
+        "name": "Huyện Tây Hoà",
+        "type": "Huyện",
+        "province_service_order": "410"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "563",
+        "name": "Huyện Phú Hoà",
+        "type": "Huyện",
+        "province_service_order": "411"
+    },
+    {
+        "province_service_key": "54",
+        "province_name": "Tỉnh Phú Yên",
+        "district_service_key": "564",
+        "name": "Thị xã Đông Hòa",
+        "type": "Thị xã",
+        "province_service_order": "412"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "568",
+        "name": "Thành phố Nha Trang",
+        "type": "Thành phố",
+        "province_service_order": "413"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "569",
+        "name": "Thành phố Cam Ranh",
+        "type": "Thành phố",
+        "province_service_order": "414"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "570",
+        "name": "Huyện Cam Lâm",
+        "type": "Huyện",
+        "province_service_order": "415"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "571",
+        "name": "Huyện Vạn Ninh",
+        "type": "Huyện",
+        "province_service_order": "416"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "572",
+        "name": "Thị xã Ninh Hòa",
+        "type": "Thị xã",
+        "province_service_order": "417"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "573",
+        "name": "Huyện Khánh Vĩnh",
+        "type": "Huyện",
+        "province_service_order": "418"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "574",
+        "name": "Huyện Diên Khánh",
+        "type": "Huyện",
+        "province_service_order": "419"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "575",
+        "name": "Huyện Khánh Sơn",
+        "type": "Huyện",
+        "province_service_order": "420"
+    },
+    {
+        "province_service_key": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_service_key": "576",
+        "name": "Huyện Trường Sa",
+        "type": "Huyện",
+        "province_service_order": "421"
+    },
+    {
+        "province_service_key": "58",
+        "province_name": "Tỉnh Ninh Thuận",
+        "district_service_key": "582",
+        "name": "Thành phố Phan Rang-Tháp Chàm",
+        "type": "Thành phố",
+        "province_service_order": "422"
+    },
+    {
+        "province_service_key": "58",
+        "province_name": "Tỉnh Ninh Thuận",
+        "district_service_key": "584",
+        "name": "Huyện Bác Ái",
+        "type": "Huyện",
+        "province_service_order": "423"
+    },
+    {
+        "province_service_key": "58",
+        "province_name": "Tỉnh Ninh Thuận",
+        "district_service_key": "585",
+        "name": "Huyện Ninh Sơn",
+        "type": "Huyện",
+        "province_service_order": "424"
+    },
+    {
+        "province_service_key": "58",
+        "province_name": "Tỉnh Ninh Thuận",
+        "district_service_key": "586",
+        "name": "Huyện Ninh Hải",
+        "type": "Huyện",
+        "province_service_order": "425"
+    },
+    {
+        "province_service_key": "58",
+        "province_name": "Tỉnh Ninh Thuận",
+        "district_service_key": "587",
+        "name": "Huyện Ninh Phước",
+        "type": "Huyện",
+        "province_service_order": "426"
+    },
+    {
+        "province_service_key": "58",
+        "province_name": "Tỉnh Ninh Thuận",
+        "district_service_key": "588",
+        "name": "Huyện Thuận Bắc",
+        "type": "Huyện",
+        "province_service_order": "427"
+    },
+    {
+        "province_service_key": "58",
+        "province_name": "Tỉnh Ninh Thuận",
+        "district_service_key": "589",
+        "name": "Huyện Thuận Nam",
+        "type": "Huyện",
+        "province_service_order": "428"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "593",
+        "name": "Thành phố Phan Thiết",
+        "type": "Thành phố",
+        "province_service_order": "429"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "594",
+        "name": "Thị xã La Gi",
+        "type": "Thị xã",
+        "province_service_order": "430"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "595",
+        "name": "Huyện Tuy Phong",
+        "type": "Huyện",
+        "province_service_order": "431"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "596",
+        "name": "Huyện Bắc Bình",
+        "type": "Huyện",
+        "province_service_order": "432"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "597",
+        "name": "Huyện Hàm Thuận Bắc",
+        "type": "Huyện",
+        "province_service_order": "433"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "598",
+        "name": "Huyện Hàm Thuận Nam",
+        "type": "Huyện",
+        "province_service_order": "434"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "599",
+        "name": "Huyện Tánh Linh",
+        "type": "Huyện",
+        "province_service_order": "435"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "600",
+        "name": "Huyện Đức Linh",
+        "type": "Huyện",
+        "province_service_order": "436"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "601",
+        "name": "Huyện Hàm Tân",
+        "type": "Huyện",
+        "province_service_order": "437"
+    },
+    {
+        "province_service_key": "60",
+        "province_name": "Tỉnh Bình Thuận",
+        "district_service_key": "602",
+        "name": "Huyện Phú Quí",
+        "type": "Huyện",
+        "province_service_order": "438"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "608",
+        "name": "Thành phố Kon Tum",
+        "type": "Thành phố",
+        "province_service_order": "439"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "610",
+        "name": "Huyện Đắk Glei",
+        "type": "Huyện",
+        "province_service_order": "440"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "611",
+        "name": "Huyện Ngọc Hồi",
+        "type": "Huyện",
+        "province_service_order": "441"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "612",
+        "name": "Huyện Đắk Tô",
+        "type": "Huyện",
+        "province_service_order": "442"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "613",
+        "name": "Huyện Kon Plông",
+        "type": "Huyện",
+        "province_service_order": "443"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "614",
+        "name": "Huyện Kon Rẫy",
+        "type": "Huyện",
+        "province_service_order": "444"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "615",
+        "name": "Huyện Đắk Hà",
+        "type": "Huyện",
+        "province_service_order": "445"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "616",
+        "name": "Huyện Sa Thầy",
+        "type": "Huyện",
+        "province_service_order": "446"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "617",
+        "name": "Huyện Tu Mơ Rông",
+        "type": "Huyện",
+        "province_service_order": "447"
+    },
+    {
+        "province_service_key": "62",
+        "province_name": "Tỉnh Kon Tum",
+        "district_service_key": "618",
+        "name": "Huyện Ia H' Drai",
+        "type": "Huyện",
+        "province_service_order": "448"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "622",
+        "name": "Thành phố Pleiku",
+        "type": "Thành phố",
+        "province_service_order": "449"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "623",
+        "name": "Thị xã An Khê",
+        "type": "Thị xã",
+        "province_service_order": "450"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "624",
+        "name": "Thị xã Ayun Pa",
+        "type": "Thị xã",
+        "province_service_order": "451"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "625",
+        "name": "Huyện KBang",
+        "type": "Huyện",
+        "province_service_order": "452"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "626",
+        "name": "Huyện Đăk Đoa",
+        "type": "Huyện",
+        "province_service_order": "453"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "627",
+        "name": "Huyện Chư Păh",
+        "type": "Huyện",
+        "province_service_order": "454"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "628",
+        "name": "Huyện Ia Grai",
+        "type": "Huyện",
+        "province_service_order": "455"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "629",
+        "name": "Huyện Mang Yang",
+        "type": "Huyện",
+        "province_service_order": "456"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "630",
+        "name": "Huyện Kông Chro",
+        "type": "Huyện",
+        "province_service_order": "457"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "631",
+        "name": "Huyện Đức Cơ",
+        "type": "Huyện",
+        "province_service_order": "458"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "632",
+        "name": "Huyện Chư Prông",
+        "type": "Huyện",
+        "province_service_order": "459"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "633",
+        "name": "Huyện Chư Sê",
+        "type": "Huyện",
+        "province_service_order": "460"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "634",
+        "name": "Huyện Đăk Pơ",
+        "type": "Huyện",
+        "province_service_order": "461"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "635",
+        "name": "Huyện Ia Pa",
+        "type": "Huyện",
+        "province_service_order": "462"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "637",
+        "name": "Huyện Krông Pa",
+        "type": "Huyện",
+        "province_service_order": "463"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "638",
+        "name": "Huyện Phú Thiện",
+        "type": "Huyện",
+        "province_service_order": "464"
+    },
+    {
+        "province_service_key": "64",
+        "province_name": "Tỉnh Gia Lai",
+        "district_service_key": "639",
+        "name": "Huyện Chư Pưh",
+        "type": "Huyện",
+        "province_service_order": "465"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "643",
+        "name": "Thành phố Buôn Ma Thuột",
+        "type": "Thành phố",
+        "province_service_order": "466"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "644",
+        "name": "Thị Xã Buôn Hồ",
+        "type": "Thị xã",
+        "province_service_order": "467"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "645",
+        "name": "Huyện Ea H'leo",
+        "type": "Huyện",
+        "province_service_order": "468"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "646",
+        "name": "Huyện Ea Súp",
+        "type": "Huyện",
+        "province_service_order": "469"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "647",
+        "name": "Huyện Buôn Đôn",
+        "type": "Huyện",
+        "province_service_order": "470"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "648",
+        "name": "Huyện Cư M'gar",
+        "type": "Huyện",
+        "province_service_order": "471"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "649",
+        "name": "Huyện Krông Búk",
+        "type": "Huyện",
+        "province_service_order": "472"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "650",
+        "name": "Huyện Krông Năng",
+        "type": "Huyện",
+        "province_service_order": "473"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "651",
+        "name": "Huyện Ea Kar",
+        "type": "Huyện",
+        "province_service_order": "474"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "652",
+        "name": "Huyện M'Đrắk",
+        "type": "Huyện",
+        "province_service_order": "475"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "653",
+        "name": "Huyện Krông Bông",
+        "type": "Huyện",
+        "province_service_order": "476"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "654",
+        "name": "Huyện Krông Pắc",
+        "type": "Huyện",
+        "province_service_order": "477"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "655",
+        "name": "Huyện Krông A Na",
+        "type": "Huyện",
+        "province_service_order": "478"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "656",
+        "name": "Huyện Lắk",
+        "type": "Huyện",
+        "province_service_order": "479"
+    },
+    {
+        "province_service_key": "66",
+        "province_name": "Tỉnh Đắk Lắk",
+        "district_service_key": "657",
+        "name": "Huyện Cư Kuin",
+        "type": "Huyện",
+        "province_service_order": "480"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "660",
+        "name": "Thành phố Gia Nghĩa",
+        "type": "Thành phố",
+        "province_service_order": "481"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "661",
+        "name": "Huyện Đăk Glong",
+        "type": "Huyện",
+        "province_service_order": "482"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "662",
+        "name": "Huyện Cư Jút",
+        "type": "Huyện",
+        "province_service_order": "483"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "663",
+        "name": "Huyện Đắk Mil",
+        "type": "Huyện",
+        "province_service_order": "484"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "664",
+        "name": "Huyện Krông Nô",
+        "type": "Huyện",
+        "province_service_order": "485"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "665",
+        "name": "Huyện Đắk Song",
+        "type": "Huyện",
+        "province_service_order": "486"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "666",
+        "name": "Huyện Đắk R'Lấp",
+        "type": "Huyện",
+        "province_service_order": "487"
+    },
+    {
+        "province_service_key": "67",
+        "province_name": "Tỉnh Đắk Nông",
+        "district_service_key": "667",
+        "name": "Huyện Tuy Đức",
+        "type": "Huyện",
+        "province_service_order": "488"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "672",
+        "name": "Thành phố Đà Lạt",
+        "type": "Thành phố",
+        "province_service_order": "489"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "673",
+        "name": "Thành phố Bảo Lộc",
+        "type": "Thành phố",
+        "province_service_order": "490"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "674",
+        "name": "Huyện Đam Rông",
+        "type": "Huyện",
+        "province_service_order": "491"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "675",
+        "name": "Huyện Lạc Dương",
+        "type": "Huyện",
+        "province_service_order": "492"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "676",
+        "name": "Huyện Lâm Hà",
+        "type": "Huyện",
+        "province_service_order": "493"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "677",
+        "name": "Huyện Đơn Dương",
+        "type": "Huyện",
+        "province_service_order": "494"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "678",
+        "name": "Huyện Đức Trọng",
+        "type": "Huyện",
+        "province_service_order": "495"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "679",
+        "name": "Huyện Di Linh",
+        "type": "Huyện",
+        "province_service_order": "496"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "680",
+        "name": "Huyện Bảo Lâm",
+        "type": "Huyện",
+        "province_service_order": "497"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "681",
+        "name": "Huyện Đạ Huoai",
+        "type": "Huyện",
+        "province_service_order": "498"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "682",
+        "name": "Huyện Đạ Tẻh",
+        "type": "Huyện",
+        "province_service_order": "499"
+    },
+    {
+        "province_service_key": "68",
+        "province_name": "Tỉnh Lâm Đồng",
+        "district_service_key": "683",
+        "name": "Huyện Cát Tiên",
+        "type": "Huyện",
+        "province_service_order": "500"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "688",
+        "name": "Thị xã Phước Long",
+        "type": "Thị xã",
+        "province_service_order": "501"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "689",
+        "name": "Thành phố Đồng Xoài",
+        "type": "Thành phố",
+        "province_service_order": "502"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "690",
+        "name": "Thị xã Bình Long",
+        "type": "Thị xã",
+        "province_service_order": "503"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "691",
+        "name": "Huyện Bù Gia Mập",
+        "type": "Huyện",
+        "province_service_order": "504"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "692",
+        "name": "Huyện Lộc Ninh",
+        "type": "Huyện",
+        "province_service_order": "505"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "693",
+        "name": "Huyện Bù Đốp",
+        "type": "Huyện",
+        "province_service_order": "506"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "694",
+        "name": "Huyện Hớn Quản",
+        "type": "Huyện",
+        "province_service_order": "507"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "695",
+        "name": "Huyện Đồng Phú",
+        "type": "Huyện",
+        "province_service_order": "508"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "696",
+        "name": "Huyện Bù Đăng",
+        "type": "Huyện",
+        "province_service_order": "509"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "697",
+        "name": "Huyện Chơn Thành",
+        "type": "Huyện",
+        "province_service_order": "510"
+    },
+    {
+        "province_service_key": "70",
+        "province_name": "Tỉnh Bình Phước",
+        "district_service_key": "698",
+        "name": "Huyện Phú Riềng",
+        "type": "Huyện",
+        "province_service_order": "511"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "703",
+        "name": "Thành phố Tây Ninh",
+        "type": "Thành phố",
+        "province_service_order": "512"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "705",
+        "name": "Huyện Tân Biên",
+        "type": "Huyện",
+        "province_service_order": "513"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "706",
+        "name": "Huyện Tân Châu",
+        "type": "Huyện",
+        "province_service_order": "514"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "707",
+        "name": "Huyện Dương Minh Châu",
+        "type": "Huyện",
+        "province_service_order": "515"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "708",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "516"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "709",
+        "name": "Thị xã Hòa Thành",
+        "type": "Thị xã",
+        "province_service_order": "517"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "710",
+        "name": "Huyện Gò Dầu",
+        "type": "Huyện",
+        "province_service_order": "518"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "711",
+        "name": "Huyện Bến Cầu",
+        "type": "Huyện",
+        "province_service_order": "519"
+    },
+    {
+        "province_service_key": "72",
+        "province_name": "Tỉnh Tây Ninh",
+        "district_service_key": "712",
+        "name": "Thị xã Trảng Bàng",
+        "type": "Thị xã",
+        "province_service_order": "520"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "718",
+        "name": "Thành phố Thủ Dầu Một",
+        "type": "Thành phố",
+        "province_service_order": "521"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "719",
+        "name": "Huyện Bàu Bàng",
+        "type": "Huyện",
+        "province_service_order": "522"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "720",
+        "name": "Huyện Dầu Tiếng",
+        "type": "Huyện",
+        "province_service_order": "523"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "721",
+        "name": "Thị xã Bến Cát",
+        "type": "Thị xã",
+        "province_service_order": "524"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "722",
+        "name": "Huyện Phú Giáo",
+        "type": "Huyện",
+        "province_service_order": "525"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "723",
+        "name": "Thị xã Tân Uyên",
+        "type": "Thị xã",
+        "province_service_order": "526"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "724",
+        "name": "Thành phố Dĩ An",
+        "type": "Thành phố",
+        "province_service_order": "527"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "725",
+        "name": "Thành phố Thuận An",
+        "type": "Thành phố",
+        "province_service_order": "528"
+    },
+    {
+        "province_service_key": "74",
+        "province_name": "Tỉnh Bình Dương",
+        "district_service_key": "726",
+        "name": "Huyện Bắc Tân Uyên",
+        "type": "Huyện",
+        "province_service_order": "529"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "731",
+        "name": "Thành phố Biên Hòa",
+        "type": "Thành phố",
+        "province_service_order": "530"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "732",
+        "name": "Thành phố Long Khánh",
+        "type": "Thành phố",
+        "province_service_order": "531"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "734",
+        "name": "Huyện Tân Phú",
+        "type": "Huyện",
+        "province_service_order": "532"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "735",
+        "name": "Huyện Vĩnh Cửu",
+        "type": "Huyện",
+        "province_service_order": "533"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "736",
+        "name": "Huyện Định Quán",
+        "type": "Huyện",
+        "province_service_order": "534"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "737",
+        "name": "Huyện Trảng Bom",
+        "type": "Huyện",
+        "province_service_order": "535"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "738",
+        "name": "Huyện Thống Nhất",
+        "type": "Huyện",
+        "province_service_order": "536"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "739",
+        "name": "Huyện Cẩm Mỹ",
+        "type": "Huyện",
+        "province_service_order": "537"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "740",
+        "name": "Huyện Long Thành",
+        "type": "Huyện",
+        "province_service_order": "538"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "741",
+        "name": "Huyện Xuân Lộc",
+        "type": "Huyện",
+        "province_service_order": "539"
+    },
+    {
+        "province_service_key": "75",
+        "province_name": "Tỉnh Đồng Nai",
+        "district_service_key": "742",
+        "name": "Huyện Nhơn Trạch",
+        "type": "Huyện",
+        "province_service_order": "540"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "747",
+        "name": "Thành phố Vũng Tàu",
+        "type": "Thành phố",
+        "province_service_order": "541"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "748",
+        "name": "Thành phố Bà Rịa",
+        "type": "Thành phố",
+        "province_service_order": "542"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "750",
+        "name": "Huyện Châu Đức",
+        "type": "Huyện",
+        "province_service_order": "543"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "751",
+        "name": "Huyện Xuyên Mộc",
+        "type": "Huyện",
+        "province_service_order": "544"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "752",
+        "name": "Huyện Long Điền",
+        "type": "Huyện",
+        "province_service_order": "545"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "753",
+        "name": "Huyện Đất Đỏ",
+        "type": "Huyện",
+        "province_service_order": "546"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "754",
+        "name": "Thị xã Phú Mỹ",
+        "type": "Thị xã",
+        "province_service_order": "547"
+    },
+    {
+        "province_service_key": "77",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "district_service_key": "755",
+        "name": "Huyện Côn Đảo",
+        "type": "Huyện",
+        "province_service_order": "548"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "760",
+        "name": "Quận 1",
+        "type": "Quận",
+        "province_service_order": "549"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "761",
+        "name": "Quận 12",
+        "type": "Quận",
+        "province_service_order": "550"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "764",
+        "name": "Quận Gò Vấp",
+        "type": "Quận",
+        "province_service_order": "551"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "765",
+        "name": "Quận Bình Thạnh",
+        "type": "Quận",
+        "province_service_order": "552"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "766",
+        "name": "Quận Tân Bình",
+        "type": "Quận",
+        "province_service_order": "553"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "767",
+        "name": "Quận Tân Phú",
+        "type": "Quận",
+        "province_service_order": "554"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "768",
+        "name": "Quận Phú Nhuận",
+        "type": "Quận",
+        "province_service_order": "555"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "769",
+        "name": "Thành phố Thủ Đức",
+        "type": "Thành phố",
+        "province_service_order": "556"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "770",
+        "name": "Quận 3",
+        "type": "Quận",
+        "province_service_order": "557"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "771",
+        "name": "Quận 10",
+        "type": "Quận",
+        "province_service_order": "558"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "772",
+        "name": "Quận 11",
+        "type": "Quận",
+        "province_service_order": "559"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "773",
+        "name": "Quận 4",
+        "type": "Quận",
+        "province_service_order": "560"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "774",
+        "name": "Quận 5",
+        "type": "Quận",
+        "province_service_order": "561"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "775",
+        "name": "Quận 6",
+        "type": "Quận",
+        "province_service_order": "562"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "776",
+        "name": "Quận 8",
+        "type": "Quận",
+        "province_service_order": "563"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "777",
+        "name": "Quận Bình Tân",
+        "type": "Quận",
+        "province_service_order": "564"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "778",
+        "name": "Quận 7",
+        "type": "Quận",
+        "province_service_order": "565"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "783",
+        "name": "Huyện Củ Chi",
+        "type": "Huyện",
+        "province_service_order": "566"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "784",
+        "name": "Huyện Hóc Môn",
+        "type": "Huyện",
+        "province_service_order": "567"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "785",
+        "name": "Huyện Bình Chánh",
+        "type": "Huyện",
+        "province_service_order": "568"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "786",
+        "name": "Huyện Nhà Bè",
+        "type": "Huyện",
+        "province_service_order": "569"
+    },
+    {
+        "province_service_key": "79",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "district_service_key": "787",
+        "name": "Huyện Cần Giờ",
+        "type": "Huyện",
+        "province_service_order": "570"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "794",
+        "name": "Thành phố Tân An",
+        "type": "Thành phố",
+        "province_service_order": "571"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "795",
+        "name": "Thị xã Kiến Tường",
+        "type": "Thị xã",
+        "province_service_order": "572"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "796",
+        "name": "Huyện Tân Hưng",
+        "type": "Huyện",
+        "province_service_order": "573"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "797",
+        "name": "Huyện Vĩnh Hưng",
+        "type": "Huyện",
+        "province_service_order": "574"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "798",
+        "name": "Huyện Mộc Hóa",
+        "type": "Huyện",
+        "province_service_order": "575"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "799",
+        "name": "Huyện Tân Thạnh",
+        "type": "Huyện",
+        "province_service_order": "576"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "800",
+        "name": "Huyện Thạnh Hóa",
+        "type": "Huyện",
+        "province_service_order": "577"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "801",
+        "name": "Huyện Đức Huệ",
+        "type": "Huyện",
+        "province_service_order": "578"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "802",
+        "name": "Huyện Đức Hòa",
+        "type": "Huyện",
+        "province_service_order": "579"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "803",
+        "name": "Huyện Bến Lức",
+        "type": "Huyện",
+        "province_service_order": "580"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "804",
+        "name": "Huyện Thủ Thừa",
+        "type": "Huyện",
+        "province_service_order": "581"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "805",
+        "name": "Huyện Tân Trụ",
+        "type": "Huyện",
+        "province_service_order": "582"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "806",
+        "name": "Huyện Cần Đước",
+        "type": "Huyện",
+        "province_service_order": "583"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "807",
+        "name": "Huyện Cần Giuộc",
+        "type": "Huyện",
+        "province_service_order": "584"
+    },
+    {
+        "province_service_key": "80",
+        "province_name": "Tỉnh Long An",
+        "district_service_key": "808",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "585"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "815",
+        "name": "Thành phố Mỹ Tho",
+        "type": "Thành phố",
+        "province_service_order": "586"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "816",
+        "name": "Thị xã Gò Công",
+        "type": "Thị xã",
+        "province_service_order": "587"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "817",
+        "name": "Thị xã Cai Lậy",
+        "type": "Thị xã",
+        "province_service_order": "588"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "818",
+        "name": "Huyện Tân Phước",
+        "type": "Huyện",
+        "province_service_order": "589"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "819",
+        "name": "Huyện Cái Bè",
+        "type": "Huyện",
+        "province_service_order": "590"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "820",
+        "name": "Huyện Cai Lậy",
+        "type": "Huyện",
+        "province_service_order": "591"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "821",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "592"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "822",
+        "name": "Huyện Chợ Gạo",
+        "type": "Huyện",
+        "province_service_order": "593"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "823",
+        "name": "Huyện Gò Công Tây",
+        "type": "Huyện",
+        "province_service_order": "594"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "824",
+        "name": "Huyện Gò Công Đông",
+        "type": "Huyện",
+        "province_service_order": "595"
+    },
+    {
+        "province_service_key": "82",
+        "province_name": "Tỉnh Tiền Giang",
+        "district_service_key": "825",
+        "name": "Huyện Tân Phú Đông",
+        "type": "Huyện",
+        "province_service_order": "596"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "829",
+        "name": "Thành phố Bến Tre",
+        "type": "Thành phố",
+        "province_service_order": "597"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "831",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "598"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "832",
+        "name": "Huyện Chợ Lách",
+        "type": "Huyện",
+        "province_service_order": "599"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "833",
+        "name": "Huyện Mỏ Cày Nam",
+        "type": "Huyện",
+        "province_service_order": "600"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "834",
+        "name": "Huyện Giồng Trôm",
+        "type": "Huyện",
+        "province_service_order": "601"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "835",
+        "name": "Huyện Bình Đại",
+        "type": "Huyện",
+        "province_service_order": "602"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "836",
+        "name": "Huyện Ba Tri",
+        "type": "Huyện",
+        "province_service_order": "603"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "837",
+        "name": "Huyện Thạnh Phú",
+        "type": "Huyện",
+        "province_service_order": "604"
+    },
+    {
+        "province_service_key": "83",
+        "province_name": "Tỉnh Bến Tre",
+        "district_service_key": "838",
+        "name": "Huyện Mỏ Cày Bắc",
+        "type": "Huyện",
+        "province_service_order": "605"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "842",
+        "name": "Thành phố Trà Vinh",
+        "type": "Thành phố",
+        "province_service_order": "606"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "844",
+        "name": "Huyện Càng Long",
+        "type": "Huyện",
+        "province_service_order": "607"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "845",
+        "name": "Huyện Cầu Kè",
+        "type": "Huyện",
+        "province_service_order": "608"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "846",
+        "name": "Huyện Tiểu Cần",
+        "type": "Huyện",
+        "province_service_order": "609"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "847",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "610"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "848",
+        "name": "Huyện Cầu Ngang",
+        "type": "Huyện",
+        "province_service_order": "611"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "849",
+        "name": "Huyện Trà Cú",
+        "type": "Huyện",
+        "province_service_order": "612"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "850",
+        "name": "Huyện Duyên Hải",
+        "type": "Huyện",
+        "province_service_order": "613"
+    },
+    {
+        "province_service_key": "84",
+        "province_name": "Tỉnh Trà Vinh",
+        "district_service_key": "851",
+        "name": "Thị xã Duyên Hải",
+        "type": "Thị xã",
+        "province_service_order": "614"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "855",
+        "name": "Thành phố Vĩnh Long",
+        "type": "Thành phố",
+        "province_service_order": "615"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "857",
+        "name": "Huyện Long Hồ",
+        "type": "Huyện",
+        "province_service_order": "616"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "858",
+        "name": "Huyện Mang Thít",
+        "type": "Huyện",
+        "province_service_order": "617"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "859",
+        "name": "Huyện  Vũng Liêm",
+        "type": "Huyện",
+        "province_service_order": "618"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "860",
+        "name": "Huyện Tam Bình",
+        "type": "Huyện",
+        "province_service_order": "619"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "861",
+        "name": "Thị xã Bình Minh",
+        "type": "Thị xã",
+        "province_service_order": "620"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "862",
+        "name": "Huyện Trà Ôn",
+        "type": "Huyện",
+        "province_service_order": "621"
+    },
+    {
+        "province_service_key": "86",
+        "province_name": "Tỉnh Vĩnh Long",
+        "district_service_key": "863",
+        "name": "Huyện Bình Tân",
+        "type": "Huyện",
+        "province_service_order": "622"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "866",
+        "name": "Thành phố Cao Lãnh",
+        "type": "Thành phố",
+        "province_service_order": "623"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "867",
+        "name": "Thành phố Sa Đéc",
+        "type": "Thành phố",
+        "province_service_order": "624"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "868",
+        "name": "Thành phố Hồng Ngự",
+        "type": "Thành phố",
+        "province_service_order": "625"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "869",
+        "name": "Huyện Tân Hồng",
+        "type": "Huyện",
+        "province_service_order": "626"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "870",
+        "name": "Huyện Hồng Ngự",
+        "type": "Huyện",
+        "province_service_order": "627"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "871",
+        "name": "Huyện Tam Nông",
+        "type": "Huyện",
+        "province_service_order": "628"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "872",
+        "name": "Huyện Tháp Mười",
+        "type": "Huyện",
+        "province_service_order": "629"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "873",
+        "name": "Huyện Cao Lãnh",
+        "type": "Huyện",
+        "province_service_order": "630"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "874",
+        "name": "Huyện Thanh Bình",
+        "type": "Huyện",
+        "province_service_order": "631"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "875",
+        "name": "Huyện Lấp Vò",
+        "type": "Huyện",
+        "province_service_order": "632"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "876",
+        "name": "Huyện Lai Vung",
+        "type": "Huyện",
+        "province_service_order": "633"
+    },
+    {
+        "province_service_key": "87",
+        "province_name": "Tỉnh Đồng Tháp",
+        "district_service_key": "877",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "634"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "883",
+        "name": "Thành phố Long Xuyên",
+        "type": "Thành phố",
+        "province_service_order": "635"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "884",
+        "name": "Thành phố Châu Đốc",
+        "type": "Thành phố",
+        "province_service_order": "636"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "886",
+        "name": "Huyện An Phú",
+        "type": "Huyện",
+        "province_service_order": "637"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "887",
+        "name": "Thị xã Tân Châu",
+        "type": "Thị xã",
+        "province_service_order": "638"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "888",
+        "name": "Huyện Phú Tân",
+        "type": "Huyện",
+        "province_service_order": "639"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "889",
+        "name": "Huyện Châu Phú",
+        "type": "Huyện",
+        "province_service_order": "640"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "890",
+        "name": "Huyện Tịnh Biên",
+        "type": "Huyện",
+        "province_service_order": "641"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "891",
+        "name": "Huyện Tri Tôn",
+        "type": "Huyện",
+        "province_service_order": "642"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "892",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "643"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "893",
+        "name": "Huyện Chợ Mới",
+        "type": "Huyện",
+        "province_service_order": "644"
+    },
+    {
+        "province_service_key": "89",
+        "province_name": "Tỉnh An Giang",
+        "district_service_key": "894",
+        "name": "Huyện Thoại Sơn",
+        "type": "Huyện",
+        "province_service_order": "645"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "899",
+        "name": "Thành phố Rạch Giá",
+        "type": "Thành phố",
+        "province_service_order": "646"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "900",
+        "name": "Thành phố Hà Tiên",
+        "type": "Thành phố",
+        "province_service_order": "647"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "902",
+        "name": "Huyện Kiên Lương",
+        "type": "Huyện",
+        "province_service_order": "648"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "903",
+        "name": "Huyện Hòn Đất",
+        "type": "Huyện",
+        "province_service_order": "649"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "904",
+        "name": "Huyện Tân Hiệp",
+        "type": "Huyện",
+        "province_service_order": "650"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "905",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "651"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "906",
+        "name": "Huyện Giồng Riềng",
+        "type": "Huyện",
+        "province_service_order": "652"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "907",
+        "name": "Huyện Gò Quao",
+        "type": "Huyện",
+        "province_service_order": "653"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "908",
+        "name": "Huyện An Biên",
+        "type": "Huyện",
+        "province_service_order": "654"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "909",
+        "name": "Huyện An Minh",
+        "type": "Huyện",
+        "province_service_order": "655"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "910",
+        "name": "Huyện Vĩnh Thuận",
+        "type": "Huyện",
+        "province_service_order": "656"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "911",
+        "name": "Thành phố Phú Quốc",
+        "type": "Thành phố",
+        "province_service_order": "657"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "912",
+        "name": "Huyện Kiên Hải",
+        "type": "Huyện",
+        "province_service_order": "658"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "913",
+        "name": "Huyện U Minh Thượng",
+        "type": "Huyện",
+        "province_service_order": "659"
+    },
+    {
+        "province_service_key": "91",
+        "province_name": "Tỉnh Kiên Giang",
+        "district_service_key": "914",
+        "name": "Huyện Giang Thành",
+        "type": "Huyện",
+        "province_service_order": "660"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "916",
+        "name": "Quận Ninh Kiều",
+        "type": "Quận",
+        "province_service_order": "661"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "917",
+        "name": "Quận Ô Môn",
+        "type": "Quận",
+        "province_service_order": "662"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "918",
+        "name": "Quận Bình Thuỷ",
+        "type": "Quận",
+        "province_service_order": "663"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "919",
+        "name": "Quận Cái Răng",
+        "type": "Quận",
+        "province_service_order": "664"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "923",
+        "name": "Quận Thốt Nốt",
+        "type": "Quận",
+        "province_service_order": "665"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "924",
+        "name": "Huyện Vĩnh Thạnh",
+        "type": "Huyện",
+        "province_service_order": "666"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "925",
+        "name": "Huyện Cờ Đỏ",
+        "type": "Huyện",
+        "province_service_order": "667"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "926",
+        "name": "Huyện Phong Điền",
+        "type": "Huyện",
+        "province_service_order": "668"
+    },
+    {
+        "province_service_key": "92",
+        "province_name": "Thành phố Cần Thơ",
+        "district_service_key": "927",
+        "name": "Huyện Thới Lai",
+        "type": "Huyện",
+        "province_service_order": "669"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "930",
+        "name": "Thành phố Vị Thanh",
+        "type": "Thành phố",
+        "province_service_order": "670"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "931",
+        "name": "Thành phố Ngã Bảy",
+        "type": "Thành phố",
+        "province_service_order": "671"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "932",
+        "name": "Huyện Châu Thành A",
+        "type": "Huyện",
+        "province_service_order": "672"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "933",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "673"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "934",
+        "name": "Huyện Phụng Hiệp",
+        "type": "Huyện",
+        "province_service_order": "674"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "935",
+        "name": "Huyện Vị Thuỷ",
+        "type": "Huyện",
+        "province_service_order": "675"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "936",
+        "name": "Huyện Long Mỹ",
+        "type": "Huyện",
+        "province_service_order": "676"
+    },
+    {
+        "province_service_key": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_service_key": "937",
+        "name": "Thị xã Long Mỹ",
+        "type": "Thị xã",
+        "province_service_order": "677"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "941",
+        "name": "Thành phố Sóc Trăng",
+        "type": "Thành phố",
+        "province_service_order": "678"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "942",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "province_service_order": "679"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "943",
+        "name": "Huyện Kế Sách",
+        "type": "Huyện",
+        "province_service_order": "680"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "944",
+        "name": "Huyện Mỹ Tú",
+        "type": "Huyện",
+        "province_service_order": "681"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "945",
+        "name": "Huyện Cù Lao Dung",
+        "type": "Huyện",
+        "province_service_order": "682"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "946",
+        "name": "Huyện Long Phú",
+        "type": "Huyện",
+        "province_service_order": "683"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "947",
+        "name": "Huyện Mỹ Xuyên",
+        "type": "Huyện",
+        "province_service_order": "684"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "948",
+        "name": "Thị xã Ngã Năm",
+        "type": "Thị xã",
+        "province_service_order": "685"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "949",
+        "name": "Huyện Thạnh Trị",
+        "type": "Huyện",
+        "province_service_order": "686"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "950",
+        "name": "Thị xã Vĩnh Châu",
+        "type": "Thị xã",
+        "province_service_order": "687"
+    },
+    {
+        "province_service_key": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_service_key": "951",
+        "name": "Huyện Trần Đề",
+        "type": "Huyện",
+        "province_service_order": "688"
+    },
+    {
+        "province_service_key": "95",
+        "province_name": "Tỉnh Bạc Liêu",
+        "district_service_key": "954",
+        "name": "Thành phố Bạc Liêu",
+        "type": "Thành phố",
+        "province_service_order": "689"
+    },
+    {
+        "province_service_key": "95",
+        "province_name": "Tỉnh Bạc Liêu",
+        "district_service_key": "956",
+        "name": "Huyện Hồng Dân",
+        "type": "Huyện",
+        "province_service_order": "690"
+    },
+    {
+        "province_service_key": "95",
+        "province_name": "Tỉnh Bạc Liêu",
+        "district_service_key": "957",
+        "name": "Huyện Phước Long",
+        "type": "Huyện",
+        "province_service_order": "691"
+    },
+    {
+        "province_service_key": "95",
+        "province_name": "Tỉnh Bạc Liêu",
+        "district_service_key": "958",
+        "name": "Huyện Vĩnh Lợi",
+        "type": "Huyện",
+        "province_service_order": "692"
+    },
+    {
+        "province_service_key": "95",
+        "province_name": "Tỉnh Bạc Liêu",
+        "district_service_key": "959",
+        "name": "Thị xã Giá Rai",
+        "type": "Thị xã",
+        "province_service_order": "693"
+    },
+    {
+        "province_service_key": "95",
+        "province_name": "Tỉnh Bạc Liêu",
+        "district_service_key": "960",
+        "name": "Huyện Đông Hải",
+        "type": "Huyện",
+        "province_service_order": "694"
+    },
+    {
+        "province_service_key": "95",
+        "province_name": "Tỉnh Bạc Liêu",
+        "district_service_key": "961",
+        "name": "Huyện Hoà Bình",
+        "type": "Huyện",
+        "province_service_order": "695"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "964",
+        "name": "Thành phố Cà Mau",
+        "type": "Thành phố",
+        "province_service_order": "696"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "966",
+        "name": "Huyện U Minh",
+        "type": "Huyện",
+        "province_service_order": "697"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "967",
+        "name": "Huyện Thới Bình",
+        "type": "Huyện",
+        "province_service_order": "698"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "968",
+        "name": "Huyện Trần Văn Thời",
+        "type": "Huyện",
+        "province_service_order": "699"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "969",
+        "name": "Huyện Cái Nước",
+        "type": "Huyện",
+        "province_service_order": "700"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "970",
+        "name": "Huyện Đầm Dơi",
+        "type": "Huyện",
+        "province_service_order": "701"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "971",
+        "name": "Huyện Năm Căn",
+        "type": "Huyện",
+        "province_service_order": "702"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "972",
+        "name": "Huyện Phú Tân",
+        "type": "Huyện",
+        "province_service_order": "703"
+    },
+    {
+        "province_service_key": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_service_key": "973",
+        "name": "Huyện Ngọc Hiển",
+        "type": "Huyện",
+        "province_service_order": "704"
+    }
+]
