@@ -2,379 +2,379 @@
     {
         "name": "Thành phố Hà Nội",
         "type": "Thành phố Trung ương",
-        "service_key": "01",
-        "service_order": "0"
+        "province_service_key": "01",
+        "province_service_order": "0"
     },
     {
         "name": "Tỉnh Hà Giang",
         "type": "Tỉnh",
-        "service_key": "02",
-        "service_order": "1"
+        "province_service_key": "02",
+        "province_service_order": "1"
     },
     {
         "name": "Tỉnh Cao Bằng",
         "type": "Tỉnh",
-        "service_key": "04",
-        "service_order": "2"
+        "province_service_key": "04",
+        "province_service_order": "2"
     },
     {
         "name": "Tỉnh Bắc Kạn",
         "type": "Tỉnh",
-        "service_key": "06",
-        "service_order": "3"
+        "province_service_key": "06",
+        "province_service_order": "3"
     },
     {
         "name": "Tỉnh Tuyên Quang",
         "type": "Tỉnh",
-        "service_key": "08",
-        "service_order": "4"
+        "province_service_key": "08",
+        "province_service_order": "4"
     },
     {
         "name": "Tỉnh Lào Cai",
         "type": "Tỉnh",
-        "service_key": "10",
-        "service_order": "5"
+        "province_service_key": "10",
+        "province_service_order": "5"
     },
     {
         "name": "Tỉnh Điện Biên",
         "type": "Tỉnh",
-        "service_key": "11",
-        "service_order": "6"
+        "province_service_key": "11",
+        "province_service_order": "6"
     },
     {
         "name": "Tỉnh Lai Châu",
         "type": "Tỉnh",
-        "service_key": "12",
-        "service_order": "7"
+        "province_service_key": "12",
+        "province_service_order": "7"
     },
     {
         "name": "Tỉnh Sơn La",
         "type": "Tỉnh",
-        "service_key": "14",
-        "service_order": "8"
+        "province_service_key": "14",
+        "province_service_order": "8"
     },
     {
         "name": "Tỉnh Yên Bái",
         "type": "Tỉnh",
-        "service_key": "15",
-        "service_order": "9"
+        "province_service_key": "15",
+        "province_service_order": "9"
     },
     {
         "name": "Tỉnh Hoà Bình",
         "type": "Tỉnh",
-        "service_key": "17",
-        "service_order": "10"
+        "province_service_key": "17",
+        "province_service_order": "10"
     },
     {
         "name": "Tỉnh Thái Nguyên",
         "type": "Tỉnh",
-        "service_key": "19",
-        "service_order": "11"
+        "province_service_key": "19",
+        "province_service_order": "11"
     },
     {
         "name": "Tỉnh Lạng Sơn",
         "type": "Tỉnh",
-        "service_key": "20",
-        "service_order": "12"
+        "province_service_key": "20",
+        "province_service_order": "12"
     },
     {
         "name": "Tỉnh Quảng Ninh",
         "type": "Tỉnh",
-        "service_key": "22",
-        "service_order": "13"
+        "province_service_key": "22",
+        "province_service_order": "13"
     },
     {
         "name": "Tỉnh Bắc Giang",
         "type": "Tỉnh",
-        "service_key": "24",
-        "service_order": "14"
+        "province_service_key": "24",
+        "province_service_order": "14"
     },
     {
         "name": "Tỉnh Phú Thọ",
         "type": "Tỉnh",
-        "service_key": "25",
-        "service_order": "15"
+        "province_service_key": "25",
+        "province_service_order": "15"
     },
     {
         "name": "Tỉnh Vĩnh Phúc",
         "type": "Tỉnh",
-        "service_key": "26",
-        "service_order": "16"
+        "province_service_key": "26",
+        "province_service_order": "16"
     },
     {
         "name": "Tỉnh Bắc Ninh",
         "type": "Tỉnh",
-        "service_key": "27",
-        "service_order": "17"
+        "province_service_key": "27",
+        "province_service_order": "17"
     },
     {
         "name": "Tỉnh Hải Dương",
         "type": "Tỉnh",
-        "service_key": "30",
-        "service_order": "18"
+        "province_service_key": "30",
+        "province_service_order": "18"
     },
     {
         "name": "Thành phố Hải Phòng",
         "type": "Thành phố Trung ương",
-        "service_key": "31",
-        "service_order": "19"
+        "province_service_key": "31",
+        "province_service_order": "19"
     },
     {
         "name": "Tỉnh Hưng Yên",
         "type": "Tỉnh",
-        "service_key": "33",
-        "service_order": "20"
+        "province_service_key": "33",
+        "province_service_order": "20"
     },
     {
         "name": "Tỉnh Thái Bình",
         "type": "Tỉnh",
-        "service_key": "34",
-        "service_order": "21"
+        "province_service_key": "34",
+        "province_service_order": "21"
     },
     {
         "name": "Tỉnh Hà Nam",
         "type": "Tỉnh",
-        "service_key": "35",
-        "service_order": "22"
+        "province_service_key": "35",
+        "province_service_order": "22"
     },
     {
         "name": "Tỉnh Nam Định",
         "type": "Tỉnh",
-        "service_key": "36",
-        "service_order": "23"
+        "province_service_key": "36",
+        "province_service_order": "23"
     },
     {
         "name": "Tỉnh Ninh Bình",
         "type": "Tỉnh",
-        "service_key": "37",
-        "service_order": "24"
+        "province_service_key": "37",
+        "province_service_order": "24"
     },
     {
         "name": "Tỉnh Thanh Hóa",
         "type": "Tỉnh",
-        "service_key": "38",
-        "service_order": "25"
+        "province_service_key": "38",
+        "province_service_order": "25"
     },
     {
         "name": "Tỉnh Nghệ An",
         "type": "Tỉnh",
-        "service_key": "40",
-        "service_order": "26"
+        "province_service_key": "40",
+        "province_service_order": "26"
     },
     {
         "name": "Tỉnh Hà Tĩnh",
         "type": "Tỉnh",
-        "service_key": "42",
-        "service_order": "27"
+        "province_service_key": "42",
+        "province_service_order": "27"
     },
     {
         "name": "Tỉnh Quảng Bình",
         "type": "Tỉnh",
-        "service_key": "44",
-        "service_order": "28"
+        "province_service_key": "44",
+        "province_service_order": "28"
     },
     {
         "name": "Tỉnh Quảng Trị",
         "type": "Tỉnh",
-        "service_key": "45",
-        "service_order": "29"
+        "province_service_key": "45",
+        "province_service_order": "29"
     },
     {
         "name": "Tỉnh Thừa Thiên Huế",
         "type": "Tỉnh",
-        "service_key": "46",
-        "service_order": "30"
+        "province_service_key": "46",
+        "province_service_order": "30"
     },
     {
         "name": "Thành phố Đà Nẵng",
         "type": "Thành phố Trung ương",
-        "service_key": "48",
-        "service_order": "31"
+        "province_service_key": "48",
+        "province_service_order": "31"
     },
     {
         "name": "Tỉnh Quảng Nam",
         "type": "Tỉnh",
-        "service_key": "49",
-        "service_order": "32"
+        "province_service_key": "49",
+        "province_service_order": "32"
     },
     {
         "name": "Tỉnh Quảng Ngãi",
         "type": "Tỉnh",
-        "service_key": "51",
-        "service_order": "33"
+        "province_service_key": "51",
+        "province_service_order": "33"
     },
     {
         "name": "Tỉnh Bình Định",
         "type": "Tỉnh",
-        "service_key": "52",
-        "service_order": "34"
+        "province_service_key": "52",
+        "province_service_order": "34"
     },
     {
         "name": "Tỉnh Phú Yên",
         "type": "Tỉnh",
-        "service_key": "54",
-        "service_order": "35"
+        "province_service_key": "54",
+        "province_service_order": "35"
     },
     {
         "name": "Tỉnh Khánh Hòa",
         "type": "Tỉnh",
-        "service_key": "56",
-        "service_order": "36"
+        "province_service_key": "56",
+        "province_service_order": "36"
     },
     {
         "name": "Tỉnh Ninh Thuận",
         "type": "Tỉnh",
-        "service_key": "58",
-        "service_order": "37"
+        "province_service_key": "58",
+        "province_service_order": "37"
     },
     {
         "name": "Tỉnh Bình Thuận",
         "type": "Tỉnh",
-        "service_key": "60",
-        "service_order": "38"
+        "province_service_key": "60",
+        "province_service_order": "38"
     },
     {
         "name": "Tỉnh Kon Tum",
         "type": "Tỉnh",
-        "service_key": "62",
-        "service_order": "39"
+        "province_service_key": "62",
+        "province_service_order": "39"
     },
     {
         "name": "Tỉnh Gia Lai",
         "type": "Tỉnh",
-        "service_key": "64",
-        "service_order": "40"
+        "province_service_key": "64",
+        "province_service_order": "40"
     },
     {
         "name": "Tỉnh Đắk Lắk",
         "type": "Tỉnh",
-        "service_key": "66",
-        "service_order": "41"
+        "province_service_key": "66",
+        "province_service_order": "41"
     },
     {
         "name": "Tỉnh Đắk Nông",
         "type": "Tỉnh",
-        "service_key": "67",
-        "service_order": "42"
+        "province_service_key": "67",
+        "province_service_order": "42"
     },
     {
         "name": "Tỉnh Lâm Đồng",
         "type": "Tỉnh",
-        "service_key": "68",
-        "service_order": "43"
+        "province_service_key": "68",
+        "province_service_order": "43"
     },
     {
         "name": "Tỉnh Bình Phước",
         "type": "Tỉnh",
-        "service_key": "70",
-        "service_order": "44"
+        "province_service_key": "70",
+        "province_service_order": "44"
     },
     {
         "name": "Tỉnh Tây Ninh",
         "type": "Tỉnh",
-        "service_key": "72",
-        "service_order": "45"
+        "province_service_key": "72",
+        "province_service_order": "45"
     },
     {
         "name": "Tỉnh Bình Dương",
         "type": "Tỉnh",
-        "service_key": "74",
-        "service_order": "46"
+        "province_service_key": "74",
+        "province_service_order": "46"
     },
     {
         "name": "Tỉnh Đồng Nai",
         "type": "Tỉnh",
-        "service_key": "75",
-        "service_order": "47"
+        "province_service_key": "75",
+        "province_service_order": "47"
     },
     {
         "name": "Tỉnh Bà Rịa - Vũng Tàu",
         "type": "Tỉnh",
-        "service_key": "77",
-        "service_order": "48"
+        "province_service_key": "77",
+        "province_service_order": "48"
     },
     {
         "name": "Thành phố Hồ Chí Minh",
         "type": "Thành phố Trung ương",
-        "service_key": "79",
-        "service_order": "49"
+        "province_service_key": "79",
+        "province_service_order": "49"
     },
     {
         "name": "Tỉnh Long An",
         "type": "Tỉnh",
-        "service_key": "80",
-        "service_order": "50"
+        "province_service_key": "80",
+        "province_service_order": "50"
     },
     {
         "name": "Tỉnh Tiền Giang",
         "type": "Tỉnh",
-        "service_key": "82",
-        "service_order": "51"
+        "province_service_key": "82",
+        "province_service_order": "51"
     },
     {
         "name": "Tỉnh Bến Tre",
         "type": "Tỉnh",
-        "service_key": "83",
-        "service_order": "52"
+        "province_service_key": "83",
+        "province_service_order": "52"
     },
     {
         "name": "Tỉnh Trà Vinh",
         "type": "Tỉnh",
-        "service_key": "84",
-        "service_order": "53"
+        "province_service_key": "84",
+        "province_service_order": "53"
     },
     {
         "name": "Tỉnh Vĩnh Long",
         "type": "Tỉnh",
-        "service_key": "86",
-        "service_order": "54"
+        "province_service_key": "86",
+        "province_service_order": "54"
     },
     {
         "name": "Tỉnh Đồng Tháp",
         "type": "Tỉnh",
-        "service_key": "87",
-        "service_order": "55"
+        "province_service_key": "87",
+        "province_service_order": "55"
     },
     {
         "name": "Tỉnh An Giang",
         "type": "Tỉnh",
-        "service_key": "89",
-        "service_order": "56"
+        "province_service_key": "89",
+        "province_service_order": "56"
     },
     {
         "name": "Tỉnh Kiên Giang",
         "type": "Tỉnh",
-        "service_key": "91",
-        "service_order": "57"
+        "province_service_key": "91",
+        "province_service_order": "57"
     },
     {
         "name": "Thành phố Cần Thơ",
         "type": "Thành phố Trung ương",
-        "service_key": "92",
-        "service_order": "58"
+        "province_service_key": "92",
+        "province_service_order": "58"
     },
     {
         "name": "Tỉnh Hậu Giang",
         "type": "Tỉnh",
-        "service_key": "93",
-        "service_order": "59"
+        "province_service_key": "93",
+        "province_service_order": "59"
     },
     {
         "name": "Tỉnh Sóc Trăng",
         "type": "Tỉnh",
-        "service_key": "94",
-        "service_order": "60"
+        "province_service_key": "94",
+        "province_service_order": "60"
     },
     {
         "name": "Tỉnh Bạc Liêu",
         "type": "Tỉnh",
-        "service_key": "95",
-        "service_order": "61"
+        "province_service_key": "95",
+        "province_service_order": "61"
     },
     {
         "name": "Tỉnh Cà Mau",
         "type": "Tỉnh",
-        "service_key": "96",
-        "service_order": "62"
+        "province_service_key": "96",
+        "province_service_order": "62"
     }
 ]

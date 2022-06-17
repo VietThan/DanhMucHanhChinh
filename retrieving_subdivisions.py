@@ -108,7 +108,7 @@ def parse_province_content(province_content):
                 print(f"found weird key: {key}")
                 print(f"    with values: {item[key]}")
 
-        province["name"] = item["TenTinh"]
+        province["province_name"] = item["TenTinh"]
         province["type"] = item["LoaiHinh"]
         province["province_service_key"] = item["MaTinh"]
         province["province_service_order"] = item["@msdata:rowOrder"]
@@ -134,13 +134,40 @@ def parse_district_content(district_content):
         district["province_service_key"] = item["MaTinh"]
         district["province_name"] = item["TenTinh"]
         district["district_service_key"] = item["MaQuanHuyen"]
-        district["name"] = item["TenQuanHuyen"]
+        district["district_name"] = item["TenQuanHuyen"]
         district["type"] = item["LoaiHinh"]
         district["province_service_order"] = item["@msdata:rowOrder"]
     
         districts.append(district)
         
     return districts
+
+def parse_ward_content(ward_content):
+    ward_content_dict = xmltodict.parse(ward_content)
+    ward_dict = return_value_with_key(root=ward_content_dict, key='TABLE')
+
+    wards = []
+    for item in ward_dict:
+        ward = {}
+
+        keys = ("MaTinh", "TenTinh", "MaQuanHuyen", "TenQuanHuyen", "MaPhuongXa", "TenPhuongXa", "LoaiHinh", "@msdata:rowOrder", "@diffgr:id")
+        for key in item:
+            if key not in keys:
+                print(f"found weird key: {key}")
+                print(f"    with values: {item[key]}")
+
+        ward["province_service_key"] = item["MaTinh"]
+        ward["province_name"] = item["TenTinh"]
+        ward["district_service_key"] = item["MaQuanHuyen"]
+        ward["district_name"] = item["TenQuanHuyen"]
+        ward["ward_service_key"] = item["MaPhuongXa"]
+        ward["ward_name"] = item["TenPhuongXa"]
+        ward["type"] = item["LoaiHinh"]
+        ward["ward_service_order"] = item["@msdata:rowOrder"]
+    
+        wards.append(ward)
+        
+    return wards
 
 def get_everything():
     """
@@ -149,10 +176,10 @@ def get_everything():
     into json format.
     """
     # get province
-    # province_content = get_danhmuchanhchinh_response(PROVINCE_BODY, PROVINCE_HEADERS)
-    # provinces = parse_province_content(province_content)
-    # with open('provinces.json', 'w', encoding='utf8') as provinces_json_name:
-    #     json.dump(provinces, provinces_json_name, ensure_ascii=False, indent=4)
+    province_content = get_danhmuchanhchinh_response(PROVINCE_BODY, PROVINCE_HEADERS)
+    provinces = parse_province_content(province_content)
+    with open('provinces.json', 'w', encoding='utf8') as provinces_json_name:
+        json.dump(provinces, provinces_json_name, ensure_ascii=False, indent=4)
 
     
     # get district
@@ -161,9 +188,11 @@ def get_everything():
     with open('districts.json', 'w', encoding='utf8') as district_json_name:
         json.dump(districts, district_json_name, ensure_ascii=False, indent=4)
     
-    # # get wards
-    # ward_content = get_danhmuchanhchinh_response(WARD_BODY, WARD_HEADERS)
-    # wards = parse_ward_content(province_content)
+    # get wards
+    ward_content = get_danhmuchanhchinh_response(WARD_BODY, WARD_HEADERS)
+    wards = parse_ward_content(ward_content)
+    with open('wards.json', 'w', encoding='utf8') as ward_json_name:
+        json.dump(wards, ward_json_name, ensure_ascii=False, indent=4)
 
 
 get_everything()
