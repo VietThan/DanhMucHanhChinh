@@ -6,6 +6,8 @@ authors = ["Viet Than <thanhoangviet@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+requests = "2.22.0"
+xmltodict = "0.13.0"
 
 [tool.poetry.dev-dependencies]
 

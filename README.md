@@ -21,5 +21,10 @@ $ python3 retrieving_subdivisions.py
 ```
 
 ## Dependencies
-Usage of the `requests`, `datetime`, `xmltodict`, and `json` libraries
+Dependencies are generated with `pipreqs` and stored in [requirements.txt](requirements.txt).
 
+To add dependencies to poetry use:
+
+```bash
+$ poetry add `cat requirements.txt`
+```
